@@ -1,0 +1,21 @@
+Hey there! Transitioning from an individual contributor to an engineering manager is a big step, and it's completely normal to feel a bit of a tug-of-war between your technical roots and your new responsibilities. Let's dive into some strategies that can help you navigate this transition effectively.
+
+**1. Embrace the Shift in Focus:** Your role now is to amplify the impact of your team, not just your own. This means shifting your focus from writing code to enabling your team to write better code. Think of yourself as a multiplier of your team's efforts.
+
+**2. Delegate and Trust:** Start by identifying tasks that can be delegated. Trust your team to handle these tasks, and provide them with the autonomy to make decisions. This not only empowers them but also frees up your time for higher-level responsibilities.
+
+**3. Develop Empathy and Communication Skills:** Your technical skills got you here, but empathy and communication will keep you here. Spend time understanding your team's motivations, challenges, and aspirations. Regular one-on-ones are a great tool for this.
+
+**4. Set Clear Expectations:** Clarity is your best friend. Make sure your team knows what's expected of them and what success looks like. This reduces ambiguity and helps everyone stay aligned.
+
+**5. Prioritize Psychological Safety:** Create an environment where team members feel safe to express ideas, ask questions, and make mistakes. This fosters innovation and trust, which are crucial for a high-performing team.
+
+**6. Stay Connected to the Tech:** While you're stepping back from day-to-day coding, staying informed about technical trends and challenges is important. This helps you make informed decisions and maintain credibility with your team.
+
+**7. Invest in Documentation:** Encourage strong documentation practices. This not only helps with onboarding new team members but also ensures that knowledge is shared and accessible, reducing bottlenecks.
+
+**8. Seek Feedback and Iterate:** Just like in engineering, iterate on your management style. Seek feedback from your team and peers, and be open to adjusting your approach based on what you learn.
+
+**Protip:** Consider setting aside some time each week for "deep work" where you can focus on strategic planning or learning. This helps maintain your technical edge while also giving you space to think about long-term goals.
+
+Remember, this transition is a journey, not a sprint. Be patient with yourself, and celebrate the small wins along the way. You're building a foundation for a more impactful role, and that's something to be excited about. Keep iterating, and you'll find your groove.

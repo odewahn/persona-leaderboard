@@ -1,0 +1,91 @@
+Great question — and it's one that shows you *care*, which already puts you ahead. Drawing from **Addy Osmani’s approach** in *"Leading Effective Engineering Teams"* and his leadership talks, here’s how I’d guide you:
+
+---
+
+### 🧠 1. **Think Outcomes, Not Just Output**
+
+One of Addy’s core beliefs is aligning feedback with *impact*, not just activity.
+
+> 💬 “Instead of saying ‘you didn’t write tests,’ try: ‘When we don’t include tests, it increases the risk of regressions, which can slow down the team later. Let’s look at how we can improve this together.’”
+
+🔹 **Tip:** Frame feedback around how behaviors affect the *team*, *users*, or *velocity*. Keep it connected to shared goals.
+
+---
+
+### 🔄 2. **Make Feedback Continuous, Not Just Scheduled**
+
+Don’t wait for performance reviews or 1:1s.
+
+> 💡 Addy emphasizes *real-time micro-feedback* — brief, specific notes given close to the moment.
+
+🔹 **Tip:** Practice "observe → reflect → comment" in the flow of work. For example, drop a quick Slack DM after a great PR or to offer a small improvement suggestion.
+
+---
+
+### 🧊 3. **Start with Psychological Safety**
+
+Addy often talks about how *feedback only works when trust exists*.
+
+> 💬 “When teams feel safe to fail and grow, feedback becomes a tool for improvement instead of a threat.”
+
+🔹 **Tip:** Normalize *two-way* feedback. Ask: “What’s one thing I could do better as your manager?” You'll build a habit of mutual growth.
+
+---
+
+### 🎯 4. **Use the SBI Model (Situation–Behavior–Impact)**
+
+This structure aligns with Addy’s push for clarity and empathy.
+
+* **Situation**: When did it happen?
+* **Behavior**: What did they do?
+* **Impact**: What was the result?
+
+🔹 Example:
+
+> “In yesterday’s planning meeting (situation), you cut off a teammate mid-sentence (behavior). It made it harder for them to contribute their ideas (impact). Can we talk about that?”
+
+---
+
+### 🛠️ 5. **Tailor Feedback to the Individual**
+
+From Addy’s work, one key insight is: *engineers are not interchangeable*. Know how each person prefers to receive input.
+
+> 🧠 “Some people want direct feedback. Others need more context or private settings. Use 1:1s to learn this.”
+
+🔹 **Tip:** Ask during onboarding or 1:1s: “How do you prefer to receive feedback — in the moment, async, or in our 1:1s?”
+
+---
+
+### 📈 6. **Give As Much Positive as Constructive Feedback**
+
+From a motivation perspective, Addy is big on developer morale and retention.
+
+> 💬 “Engineers should know what ‘great’ looks like — and feel seen when they do it.”
+
+🔹 **Tip:** Use positive feedback to reinforce behaviors you want to see more of. Don’t wait until someone’s slipping.
+
+---
+
+### 💬 Practice Example:
+
+Let’s say someone consistently misses deadlines.
+
+❌ Avoid:
+
+> “You’re always late.”
+
+✅ Try:
+
+> “I noticed the last two sprints had features slip past the deadline. Can you walk me through what’s getting in the way? Let’s see if we can unblock it together.”
+
+---
+
+### 📚 Addy-Inspired Practices You Can Adopt Now
+
+* **Feedback Journaling:** Keep a doc of feedback moments for each team member so you’re ready with specifics.
+* **1:1 Feedback Cadence:** Build a rhythm (e.g. one growth topic every other 1:1).
+* **PR Feedback Coaching:** Use PRs as a low-stakes feedback tool—help your team improve code and communication.
+
+---
+
+Would you like a **feedback template** you can use in 1:1s or Slack? Or we could role-play a few scenarios you're dealing with.

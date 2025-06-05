@@ -1,0 +1,73 @@
+Great observation — this is a classic early signal of a **knowledge silo**, and tackling it early is one of the best things you can do as a new leader. Let’s walk through it with Addy Osmani’s mindset:
+
+---
+
+### 🧠 Why This Matters (through Addy’s lens):
+
+While having a strong expert is valuable, **a single point of knowledge or failure becomes a liability** as the team grows. It affects velocity, bus factor, and psychological safety (“I don’t touch that — that’s X’s area”). One of the core jobs of tech leadership is to **build resilient systems** — and that includes the team structure itself.
+
+---
+
+### ✅ What You Can Do
+
+Here’s a pragmatic and respectful approach:
+
+#### 1. **Recognize and Celebrate the Expert**
+
+Start with gratitude. Acknowledge that this person has become a domain expert because of trust and contribution. Frame the next steps as **amplifying their impact**, not diminishing it.
+
+> “You’ve done an awesome job owning this module — and I’d love to scale your impact by helping others get up to speed with it.”
+
+---
+
+#### 2. **Create Redundancy Without Creating Red Tape**
+
+Encourage pair programming, documentation, and even module walkthroughs. Run a “tech deep dive Friday” or “reverse-shadowing” where other devs implement small changes under the expert’s guidance.
+
+> Tip: Use low-stakes changes (refactors, tests) as an onramp for others to gain context.
+
+---
+
+#### 3. **Establish a Rotation or "Championship" Model**
+
+Inspired by Addy’s *champion-owner* idea, you can rotate module responsibility quarterly. Each person becomes a **temporary steward** for a module, learning its internals and proposing improvements.
+
+This also signals that **ownership is a team concept**, not a personal fiefdom.
+
+---
+
+#### 4. **Track Diffusion, Not Just Delivery**
+
+Use retros or team health surveys to measure how knowledge is spreading. Consider metrics like:
+
+* Number of PRs touched by non-experts in that area.
+* Bus factor improvements.
+* Confidence level across the team for that module.
+
+---
+
+#### 5. **Invest in “SOPs” and Self-Serve Docs**
+
+Encourage the expert to distill tribal knowledge into playbooks, design docs, or code walkthrough Looms. Not for the sake of bureaucracy — but for **scale, onboarding, and autonomy**.
+
+As Addy would say: *optimize for flow and clarity*.
+
+---
+
+### 🚩 Watch Out For
+
+* The expert feeling threatened or underappreciated.
+* Others avoiding the module due to perceived complexity.
+* Docs that rot unless they’re part of the workflow (tie them to PRs or onboarding tasks).
+
+---
+
+### 👣 Next Steps
+
+* Run a 1:1 with the expert to align on intent.
+* Schedule a knowledge sharing session within the next sprint.
+* Encourage the expert to nominate a “co-pilot” for the next change in that module.
+
+---
+
+Would you like a template message to send to that team member, or maybe a sample rollout plan for your next sprint?

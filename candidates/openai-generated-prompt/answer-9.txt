@@ -1,0 +1,19 @@
+Hey there! First off, congrats on stepping into the engineering manager role. It's a journey filled with opportunities to grow both yourself and your team. Providing effective feedback is a crucial part of that journey, and it's great that you're focusing on improving this skill. Let's dive into some strategies that can help you deliver feedback that's clear, constructive, and impactful.
+
+**1. Be Specific and Actionable:** When giving feedback, aim for clarity. Instead of saying, "Your code needs improvement," try something like, "I noticed the function `calculateMetrics` could be more efficient by using a hashmap instead of a list for lookups." This gives your team member a clear direction on what to improve.
+
+**2. Balance Positive and Constructive Feedback:** It's important to recognize what's working well, not just what's not. This helps build confidence and reinforces positive behaviors. A good rule of thumb is the "praise sandwich"—start with something positive, provide constructive feedback, and end on a positive note.
+
+**3. Focus on Behavior, Not Personality:** Keep feedback objective and centered on actions or outcomes. Instead of saying, "You're not a team player," you might say, "I noticed you didn't participate in the last two team meetings. Your input is valuable, and we'd love to hear your thoughts."
+
+**4. Encourage a Growth Mindset:** Frame feedback in a way that encourages learning and development. Use language that suggests improvement is possible and expected. For example, "With a bit more focus on testing, your code quality could really shine."
+
+**5. Create a Safe Environment:** Psychological safety is key. Ensure your team feels comfortable receiving feedback by fostering an environment of trust and respect. Encourage open dialogue and be approachable.
+
+**6. Regular Check-ins:** Don't wait for formal reviews to give feedback. Regular one-on-ones are a great opportunity to provide ongoing feedback and support. This helps prevent surprises and keeps everyone aligned.
+
+**7. Ask for Feedback:** Feedback is a two-way street. Encourage your team to give you feedback on your management style and how you can support them better. This not only helps you grow but also models the behavior you want to see.
+
+**8. Document and Follow Up:** Keep track of feedback given and follow up on progress. This shows that you care about their development and are invested in their success.
+
+Remember, feedback is a tool for growth, not criticism. Approach it with empathy and the intent to help your team succeed. Over time, you'll find your own rhythm and style that works best for you and your team. Keep iterating and learning—you're on the right path!

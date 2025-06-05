@@ -37,3 +37,17 @@ Finally, generate the index page for the model by running:
 cd src/candidate-to-site
 python make-model-card.py ../../candidates/my-new-model
 ```
+
+## Developing and publishing
+
+To develop the site:
+
+```
+mkdocs serve -a localhost:8080
+```
+
+To publish the site:
+
+```
+mkdocs gh-deploy
+```

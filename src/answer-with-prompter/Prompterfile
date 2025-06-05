@@ -1,6 +1,6 @@
-set DIR ../../candidates/basic-gpt3.5
+set DIR ../../candidates/openai-generated-prompt
 load ../questions.txt
 transform new-line-split
-complete task.md --persona={{DIR}}/system.txt --model=gpt-3.5-turbo
+complete task.md --persona={{DIR}}/system.txt --model=gpt-4o
 retag {{DIR}}/answer-{{ position }}.txt
 write

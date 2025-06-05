@@ -1,0 +1,76 @@
+Great question — and it's one that Addy Osmani has consistently addressed in both his writing and talks, especially around the themes of **scaling systems**, **building leverage**, and **sustainable team growth**.
+
+Here’s how Addy might mentor you on breaking down knowledge silos and distributing expertise:
+
+---
+
+### 🧠 1. **Codify Expertise, Don’t Just Hoard It**
+
+Instead of letting expertise live only in someone's head, **create systems of shared knowledge**:
+
+* Set up **lightweight documentation practices** (e.g., decision logs, design docs, tech specs) that are part of your workflow, not an afterthought.
+* Use **runbooks** and **onboarding guides** that are co-owned and iterated on by the team.
+* Invest in **code comments and commit messages** as part of the knowledge layer.
+
+> “Docs aren't a separate thing from code quality — they're an artifact of a healthy engineering culture.” — *Tech Leadership Tuesday*
+
+---
+
+### 🔁 2. **Practice Intentional Knowledge Rotation**
+
+Addy would push for **purposeful project rotation** and **pairing systems**:
+
+* Rotate ownership of systems and critical paths on a cadence (monthly, quarterly).
+* Normalize **pair programming and ensemble programming** — not just for juniors, but for *cross-pollination* among all levels.
+* Use **“tech deep dives” or knowledge-sharing demos** in weekly rituals to demystify areas of ownership.
+
+> “Don’t build bus factors into your org chart. Build redundancy through collaboration.” — *Leading Effective Engineering Teams*
+
+---
+
+### 🧱 3. **Create a Culture of Safety Around "I Don’t Know"**
+
+You need psychological safety so people feel okay saying *“I’m not the expert”*:
+
+* Model this as a leader — ask questions *you* could answer to normalize exploration.
+* In retros and PR reviews, highlight learnings, not just outcomes.
+* Remove shame around onboarding — reward people who make systems easier for others to understand.
+
+---
+
+### 🛠 4. **Tooling and Architecture as Anti-Silo Strategy**
+
+Addy often points out how architecture can either reinforce or prevent silos:
+
+* Push toward **modular, well-encapsulated systems** that are easier to learn and transfer ownership of.
+* Avoid "tribal knowledge" dependencies in critical paths — use **typed APIs, interface boundaries, shared linters, and automated checks** to encode best practices.
+
+> “Good tooling is mentorship at scale.” — *Tech Leadership Tuesday*
+
+---
+
+### 📊 5. **Use Engineering Metrics to Spot Risky Silos**
+
+Look at:
+
+* Git contribution graphs: are there areas of the codebase only one person touches?
+* PR reviewers: is feedback flowing through a diverse set of people?
+* Pager rotations: is alert fatigue falling on one expert repeatedly?
+
+These signals can help you proactively rotate, document, or redistribute work.
+
+---
+
+### Summary: Addy’s Playbook on Knowledge Silos
+
+| Strategy                 | Description                                        |
+| ------------------------ | -------------------------------------------------- |
+| **Codify, Don’t Hoard**  | Design docs, runbooks, living onboarding materials |
+| **Deliberate Rotation**  | Pairing, project swaps, system deep dives          |
+| **Psych Safety**         | Normalize asking, not knowing, and documenting     |
+| **Modular Architecture** | Build for approachability and testability          |
+| **Use Metrics**          | Identify and mitigate single points of failure     |
+
+---
+
+If you want, I can help you build a team ritual or template that puts some of this into practice — say, a knowledge-sharing calendar, doc structure, or even a rotation matrix. Want to go deeper?

@@ -1,0 +1,95 @@
+Great question — and one that *every* new engineering leader wrestles with. Drawing from Addy Osmani's experience and teachings, here's how I'd guide you through this:
+
+---
+
+### 🔍 **Leadership vs. Management — What's the Difference?**
+
+Think of **management** as the **science of execution** and **leadership** as the **art of inspiration and direction**.
+
+#### Management focuses on:
+
+* Setting goals and tracking progress
+* Allocating resources
+* Hiring, performance reviews, promotions
+* Resolving blockers and prioritizing
+* Scaling systems and processes
+
+#### Leadership focuses on:
+
+* Creating vision and aligning the team behind it
+* Influencing without authority
+* Cultivating psychological safety
+* Coaching people to grow beyond their current roles
+* Advocating for technical excellence and team health
+
+> As Addy puts it, "*Leaders build the context in which teams thrive. Managers maintain the structure that keeps them operating efficiently.*"
+
+---
+
+### ⚖️ **Balancing Both Roles as a New Leader**
+
+You don’t have to master both overnight, but here's how you can consciously balance them:
+
+#### 1. **Zoom In & Zoom Out**
+
+* **Zoom in** to manage the details: sprint plans, metrics, 1:1s.
+* **Zoom out** to lead: communicate why the work matters, inspire ownership, connect roadmap to impact.
+
+Set a weekly rhythm: e.g., Mon-Wed = management-heavy (execution, process), Thurs-Fri = leadership-focused (vision, coaching, team health).
+
+---
+
+#### 2. **Anchor on Outcomes, Not Output**
+
+* A manager might ask: “Are we shipping on time?”
+* A leader asks: “Is what we're shipping *moving the needle* for users or the business?”
+* Balance both by creating shared goals that measure real value, not just delivery velocity.
+
+---
+
+#### 3. **Lead Through Technical Empathy**
+
+As Addy emphasizes: you don’t need to code every day, but you **do need to understand what makes technical work meaningful, hard, or brittle.**
+
+Ask:
+
+* “What are the trade-offs the team’s facing?”
+* “Is this tech debt affecting velocity?”
+* “Are we optimizing for reuse, simplicity, or experimentation here?”
+
+When engineers feel understood, your leadership lands better.
+
+---
+
+#### 4. **Create Space to Lead**
+
+If you’re always in Jira, you won’t lead. Block time each week to:
+
+* Think strategically
+* Write vision documents
+* Mentor senior ICs
+* Identify systems or culture bottlenecks
+
+> Addy often recommends spending *at least 10–20%* of your time on “team tech health and growth” — that’s leadership in action.
+
+---
+
+#### 5. **Ask Yourself Weekly:**
+
+* What did I do this week that only a leader could do?
+* What did I do that only a manager would do?
+* Am I delegating effectively enough to stay in both lanes?
+
+---
+
+### 🚀 TL;DR
+
+* **Leadership** is about vision, culture, influence, and coaching.
+* **Management** is about systems, structure, execution, and people ops.
+* You need both to build high-performing teams — but they pull in different directions.
+* Schedule time for both intentionally.
+* Build technical empathy and psychological safety — these are your leverage points.
+
+---
+
+If you're up for it, I can also share a lightweight template for doing a self-check-in or team health review through the leadership lens. Want that?

@@ -1,0 +1,56 @@
+Great question — this is a classic tech leadership challenge, and one that Addy Osmani has addressed in both *Leading Effective Engineering Teams* and various talks.
+
+Let’s unpack it in Addy’s voice and style:
+
+---
+
+**"Generalists are valuable, but even they need depth in something to truly accelerate impact. Your job as a leader is to help your engineers align their interests with high-leverage areas for the team — and then create space for depth."**
+
+### Here’s how you can approach this:
+
+#### 1. **Have a focused 1:1 on growth and impact**
+
+Start with curiosity, not criticism:
+
+* “What areas are you most excited about?”
+* “Where do you feel you're making the most meaningful impact?”
+* “Are there areas where you feel spread too thin?”
+
+> As Addy might say: “Help them reflect, not just redirect.”
+
+From this, identify:
+
+* what they *want* to go deep in, and
+* what the *team needs* someone to go deep in.
+
+Look for overlap — that’s the sweet spot.
+
+#### 2. **Define a "spike" area**
+
+Encourage them to pick one area to **go deep** on for the next 1–2 quarters. This doesn't mean abandoning all other work, but it means **prioritizing** learning, ownership, and measurable impact in that domain.
+
+> “Specialization isn't forever. It's a season. But mastery requires momentum.”
+
+Use goals like:
+
+* Owning a system or service end-to-end
+* Driving performance improvements
+* Writing internal documentation or leading knowledge-sharing
+
+#### 3. **Create space for deep work**
+
+Make sure they’re not constantly getting pulled into support or context-switching across projects. Addy often stresses **minimizing cognitive overhead**. That means:
+
+* Reducing the number of concurrent responsibilities
+* Saying “no” to low-leverage tasks
+* Protecting time for learning and contribution
+
+#### 4. **Celebrate depth as much as delivery**
+
+Publicly recognize not just *what* they build, but the *craft* and *expertise* they bring to it. In Addy’s teams, engineers who master areas become **go-to people**, not just executors.
+
+> “People thrive when they see their skills respected — and used.”
+
+---
+
+Would you like a sample coaching plan or template to help guide that engineer's focus over the next few months?
