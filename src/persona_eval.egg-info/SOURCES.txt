@@ -1,0 +1,9 @@
+pyproject.toml
+src/candidate-to-site/evaluate.py
+src/candidate-to-site/make-model-card.py
+src/evaluate-prompt/make-test.py
+src/persona_eval.egg-info/PKG-INFO
+src/persona_eval.egg-info/SOURCES.txt
+src/persona_eval.egg-info/dependency_links.txt
+src/persona_eval.egg-info/requires.txt
+src/persona_eval.egg-info/top_level.txt

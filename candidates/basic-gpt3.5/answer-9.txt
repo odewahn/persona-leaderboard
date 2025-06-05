@@ -1,0 +1,17 @@
+Improving your feedback skills as an engineering manager is crucial for the growth and development of your team. Here are some strategies you can use to provide effective feedback:
+
+1. Be specific and timely: Provide feedback as soon as possible after observing the behavior or performance that you want to address. Be specific about what the issue is and provide concrete examples to support your feedback.
+
+2. Focus on behavior, not personality: When giving feedback, focus on the specific behavior or actions that need improvement, rather than making it personal. This can help your team members understand what they need to change without feeling attacked.
+
+3. Use the sandwich approach: Start with positive feedback or praise, then address the areas for improvement, and end with more positive feedback or encouragement. This can help soften the impact of constructive criticism.
+
+4. Ask for input: Encourage open communication by asking your team members for their perspective on their performance and how they think they can improve. This can help them feel more engaged in the feedback process.
+
+5. Set clear expectations: Make sure your team members understand what is expected of them and provide clear goals and objectives. This can help them know what they need to work on and how they can improve.
+
+6. Follow up: Check in with your team members regularly to see how they are progressing and provide ongoing feedback and support. This can help them stay on track and continue to improve.
+
+7. Seek feedback from others: Ask for feedback from your team members on how you can improve your feedback skills. This can help you understand what is working well and what areas you can focus on for improvement.
+
+By implementing these strategies, you can improve your feedback skills as an engineering manager and help your team members grow and succeed.

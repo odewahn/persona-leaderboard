@@ -1,0 +1,12 @@
+{
+    "success": true,
+    "burrows_delta": {
+        "score": 0.7450585961341858,
+        "top_words_count": 171
+    },
+    "andreww_model": {
+        "score": 0.0005739149637520313
+    },
+    "metric_id": 120,
+    "created_at": "2025-06-04T17:21:59.810471+00:00"
+}

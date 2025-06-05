@@ -1,0 +1,6 @@
+openai
+requests
+jinja2
+mkdocs
+mkdocs-material
+cookiecutter

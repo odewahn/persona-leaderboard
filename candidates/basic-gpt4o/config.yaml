@@ -1,0 +1,3 @@
+description: Basic openai system prompt with chatgpt-4o
+model: gpt-4o
+tools: []

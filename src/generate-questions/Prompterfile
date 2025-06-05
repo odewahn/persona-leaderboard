@@ -1,0 +1,9 @@
+load 9781098148232-leading-effective-engineering-teams/source/*.html
+select "block_tag like '%-ch%'"
+transform html-to-md token-split --n=2500 --overlap=10
+complete task-create-questions.md --context=metadata.yml --model=gpt-4o
+complete task-pull-final-section.md
+retag questions.txt
+squash
+complete task-select-best-questions.md --model=gpt-4o --temperature=0
+write --fn=questions.yaml

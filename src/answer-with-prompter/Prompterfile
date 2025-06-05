@@ -1,0 +1,6 @@
+set DIR ../../candidates/basic-gpt3.5
+load ../questions.txt
+transform new-line-split
+complete task.md --persona={{DIR}}/system.txt --model=gpt-3.5-turbo
+retag {{DIR}}/answer-{{ position }}.txt
+write
