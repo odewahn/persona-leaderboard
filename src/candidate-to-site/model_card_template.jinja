@@ -1,0 +1,36 @@
+# {{config.description}}
+
+## Overview
+
+Model: {{config.model}}
+
+Tools: {{config.tools}}
+
+/// note | System Prompt
+   {{system_prompt}}
+///
+
+Scores
+
+| Description | Burrows Delta | Andrew Model |
+|-------------|---------------|--------------|
+|{{config.description}} | {{scores.burrows_delta}} | {{scores.andreww_model}} |
+
+
+
+
+## Responses
+
+{% for eval in evaluation %}
+
+### Question {{loop.index}}
+
+| Burrows Delta | Andrew Model |
+|---------------|---------------|
+|{{eval.eval.burrows_delta.score}} | {{eval.eval.andreww_model.score}}|
+
+/// Note | *{{eval.question}}*
+{{eval.answer}}
+///
+
+{% endfor %}
