@@ -8,6 +8,7 @@ nav:
   - tmpt.me:  tmpt-me.md
   - OpenAI generated prompt: openai-generated-prompt.md
   - chatGPT: chatgpt.md
+  - CL System Prompt example 1: cl-gradio-pe1.md
 theme:
   material
 markdown_extensions:
