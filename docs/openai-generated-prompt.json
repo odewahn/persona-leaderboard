@@ -7,8 +7,10 @@
         "tools": []
     },
     "scores": {
-        "burrows_delta": 0.5432997569441795,
-        "andreww_model": 0.5563246524925489
+        "burrows_delta": 0.5433,
+        "andreww_model": 0.5563,
+        "median_burrows_delta": 0.5749,
+        "median_andreww_model": 0.9238
     },
     "evaluation": [
         {
@@ -17,11 +19,11 @@
             "eval": {
                 "success": true,
                 "burrows_delta": {
-                    "score": 0.5036333203315735,
+                    "score": 0.5036,
                     "top_words_count": 205
                 },
                 "andreww_model": {
-                    "score": 0.9969618916511536
+                    "score": 0.997
                 },
                 "metric_id": 413,
                 "created_at": "2025-06-05T20:01:19.851498+00:00"
@@ -33,11 +35,11 @@
             "eval": {
                 "success": true,
                 "burrows_delta": {
-                    "score": 0.4665238857269287,
+                    "score": 0.4665,
                     "top_words_count": 212
                 },
                 "andreww_model": {
-                    "score": 0.002541766269132495
+                    "score": 0.0025
                 },
                 "metric_id": 414,
                 "created_at": "2025-06-05T20:01:20.654098+00:00"
@@ -49,11 +51,11 @@
             "eval": {
                 "success": true,
                 "burrows_delta": {
-                    "score": 0.5372686982154846,
+                    "score": 0.5373,
                     "top_words_count": 220
                 },
                 "andreww_model": {
-                    "score": 0.38709592819213867
+                    "score": 0.3871
                 },
                 "metric_id": 425,
                 "created_at": "2025-06-05T20:01:29.541740+00:00"
@@ -65,11 +67,11 @@
             "eval": {
                 "success": true,
                 "burrows_delta": {
-                    "score": 0.40040162205696106,
+                    "score": 0.4004,
                     "top_words_count": 230
                 },
                 "andreww_model": {
-                    "score": 0.9984687566757202
+                    "score": 0.9985
                 },
                 "metric_id": 426,
                 "created_at": "2025-06-05T20:01:30.448107+00:00"
@@ -81,11 +83,11 @@
             "eval": {
                 "success": true,
                 "burrows_delta": {
-                    "score": 0.4625977873802185,
+                    "score": 0.4626,
                     "top_words_count": 233
                 },
                 "andreww_model": {
-                    "score": 0.9999900460243225
+                    "score": 1.0
                 },
                 "metric_id": 427,
                 "created_at": "2025-06-05T20:01:31.208015+00:00"
@@ -97,11 +99,11 @@
             "eval": {
                 "success": true,
                 "burrows_delta": {
-                    "score": 0.5059805512428284,
+                    "score": 0.506,
                     "top_words_count": 206
                 },
                 "andreww_model": {
-                    "score": 0.0003904644399881363
+                    "score": 0.0004
                 },
                 "metric_id": 428,
                 "created_at": "2025-06-05T20:01:32.021315+00:00"
@@ -113,11 +115,11 @@
             "eval": {
                 "success": true,
                 "burrows_delta": {
-                    "score": 0.6009730100631714,
+                    "score": 0.601,
                     "top_words_count": 213
                 },
                 "andreww_model": {
-                    "score": 0.9966309666633606
+                    "score": 0.9966
                 },
                 "metric_id": 429,
                 "created_at": "2025-06-05T20:01:32.805711+00:00"
@@ -129,11 +131,11 @@
             "eval": {
                 "success": true,
                 "burrows_delta": {
-                    "score": 0.6253275275230408,
+                    "score": 0.6253,
                     "top_words_count": 226
                 },
                 "andreww_model": {
-                    "score": 0.997653067111969
+                    "score": 0.9977
                 },
                 "metric_id": 430,
                 "created_at": "2025-06-05T20:01:33.707282+00:00"
@@ -145,11 +147,11 @@
             "eval": {
                 "success": true,
                 "burrows_delta": {
-                    "score": 0.5519679188728333,
+                    "score": 0.552,
                     "top_words_count": 264
                 },
                 "andreww_model": {
-                    "score": 0.20546293258666992
+                    "score": 0.2055
                 },
                 "metric_id": 431,
                 "created_at": "2025-06-05T20:01:34.464018+00:00"
@@ -161,11 +163,11 @@
             "eval": {
                 "success": true,
                 "burrows_delta": {
-                    "score": 0.47697463631629944,
+                    "score": 0.477,
                     "top_words_count": 224
                 },
                 "andreww_model": {
-                    "score": 0.031447116285562515
+                    "score": 0.0314
                 },
                 "metric_id": 432,
                 "created_at": "2025-06-05T20:01:35.208887+00:00"
@@ -177,11 +179,11 @@
             "eval": {
                 "success": true,
                 "burrows_delta": {
-                    "score": 0.6420904397964478,
+                    "score": 0.6421,
                     "top_words_count": 247
                 },
                 "andreww_model": {
-                    "score": 0.3685120642185211
+                    "score": 0.3685
                 },
                 "metric_id": 415,
                 "created_at": "2025-06-05T20:01:21.266923+00:00"
@@ -193,11 +195,11 @@
             "eval": {
                 "success": true,
                 "burrows_delta": {
-                    "score": 0.6262425780296326,
+                    "score": 0.6262,
                     "top_words_count": 191
                 },
                 "andreww_model": {
-                    "score": 0.0026872504968196154
+                    "score": 0.0027
                 },
                 "metric_id": 416,
                 "created_at": "2025-06-05T20:01:22.184615+00:00"
@@ -209,11 +211,11 @@
             "eval": {
                 "success": true,
                 "burrows_delta": {
-                    "score": 0.5748981237411499,
+                    "score": 0.5749,
                     "top_words_count": 167
                 },
                 "andreww_model": {
-                    "score": 0.9581840634346008
+                    "score": 0.9582
                 },
                 "metric_id": 417,
                 "created_at": "2025-06-05T20:01:23.023716+00:00"
@@ -225,11 +227,11 @@
             "eval": {
                 "success": true,
                 "burrows_delta": {
-                    "score": 0.27830079197883606,
+                    "score": 0.2783,
                     "top_words_count": 197
                 },
                 "andreww_model": {
-                    "score": 0.9901533126831055
+                    "score": 0.9902
                 },
                 "metric_id": 418,
                 "created_at": "2025-06-05T20:01:23.762949+00:00"
@@ -241,11 +243,11 @@
             "eval": {
                 "success": true,
                 "burrows_delta": {
-                    "score": 0.5763763189315796,
+                    "score": 0.5764,
                     "top_words_count": 222
                 },
                 "andreww_model": {
-                    "score": 0.9237874150276184
+                    "score": 0.9238
                 },
                 "metric_id": 419,
                 "created_at": "2025-06-05T20:01:24.614265+00:00"
@@ -257,11 +259,11 @@
             "eval": {
                 "success": true,
                 "burrows_delta": {
-                    "score": 0.591014564037323,
+                    "score": 0.591,
                     "top_words_count": 223
                 },
                 "andreww_model": {
-                    "score": 0.017967917025089264
+                    "score": 0.018
                 },
                 "metric_id": 420,
                 "created_at": "2025-06-05T20:01:25.415177+00:00"
@@ -273,11 +275,11 @@
             "eval": {
                 "success": true,
                 "burrows_delta": {
-                    "score": 0.636711061000824,
+                    "score": 0.6367,
                     "top_words_count": 206
                 },
                 "andreww_model": {
-                    "score": 9.28510635276325e-05
+                    "score": 0.0001
                 },
                 "metric_id": 421,
                 "created_at": "2025-06-05T20:01:26.263840+00:00"
@@ -289,11 +291,11 @@
             "eval": {
                 "success": true,
                 "burrows_delta": {
-                    "score": 0.5574139356613159,
+                    "score": 0.5574,
                     "top_words_count": 217
                 },
                 "andreww_model": {
-                    "score": 0.29168128967285156
+                    "score": 0.2917
                 },
                 "metric_id": 422,
                 "created_at": "2025-06-05T20:01:27.117900+00:00"
@@ -305,11 +307,11 @@
             "eval": {
                 "success": true,
                 "burrows_delta": {
-                    "score": 0.5952171087265015,
+                    "score": 0.5952,
                     "top_words_count": 173
                 },
                 "andreww_model": {
-                    "score": 0.9997956156730652
+                    "score": 0.9998
                 },
                 "metric_id": 423,
                 "created_at": "2025-06-05T20:01:27.978270+00:00"
@@ -321,11 +323,11 @@
             "eval": {
                 "success": true,
                 "burrows_delta": {
-                    "score": 0.6560812592506409,
+                    "score": 0.6561,
                     "top_words_count": 210
                 },
                 "andreww_model": {
-                    "score": 0.9569883346557617
+                    "score": 0.957
                 },
                 "metric_id": 424,
                 "created_at": "2025-06-05T20:01:28.757331+00:00"

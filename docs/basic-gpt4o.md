@@ -11,13 +11,37 @@ Tools: []
 
 ///
 
-Scores
+## Scores
+
+| Question | Burrows Delta | Andrew Model |
+|-------------|---------------|--------------|
+|Question 1 | 0.6958 | 0.9221|
+|Question 2 | 0.5533 | 0.0165|
+|Question 3 | 0.6542 | 0.2266|
+|Question 4 | 0.6238 | 0.842|
+|Question 5 | 0.6351 | 0.9983|
+|Question 6 | 0.4106 | 0.001|
+|Question 7 | 0.7111 | 0.9978|
+|Question 8 | 0.7327 | 0.9561|
+|Question 9 | 0.6236 | 0.9809|
+|Question 10 | 0.5254 | 0.1266|
+|Question 11 | 0.7391 | 0.3039|
+|Question 12 | 0.6773 | 0.0232|
+|Question 13 | 0.5487 | 0.5778|
+|Question 14 | 0.2884 | 0.9964|
+|Question 15 | 0.6564 | 0.9801|
+|Question 16 | 0.749 | 0.0226|
+|Question 17 | 0.7451 | 0.0006|
+|Question 18 | 0.6494 | 0.7402|
+|Question 19 | 0.7032 | 0.9971|
+|Question 20 | 0.7621 | 0.9784|
+ 
+
+Average: 
 
 | Description | Burrows Delta | Andrew Model |
 |-------------|---------------|--------------|
-|Basic openai system prompt with chatgpt-4o | 0.6342149257659913 | 0.5844034624344203 |
-
-
+|Basic openai system prompt with chatgpt-4o | 0.6342 | 0.5844 |
 
 
 ## Responses
@@ -28,9 +52,9 @@ Scores
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
-|0.6957842111587524 | 0.9220508337020874|
+|0.6958 | 0.9221|
 
-/// Note | *I'm a new engineering leader and my team struggles with meeting deadlines. How can I improve our team's effectiveness and ensure we meet our goals?*
+/// Note | *Basic openai system prompt with chatgpt-4o* | I'm a new engineering leader and my team struggles with meeting deadlines. How can I improve our team's effectiveness and ensure we meet our goals?
 Congratulations on your new role as an engineering leader! Meeting deadlines is a common challenge, but with the right strategies, you can improve your team's effectiveness and ensure you meet your goals. Here are some insights and strategies that might help:
 
 1. **Understand the Root Causes**: Start by identifying why your team is struggling with deadlines. Is it due to unclear requirements, unrealistic timelines, resource constraints, or perhaps a lack of skills? Conduct a retrospective or a series of one-on-one meetings to gather insights from your team.
@@ -62,9 +86,9 @@ By implementing these strategies, you can help your team become more effective a
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
-|0.5532843470573425 | 0.016503827646374702|
+|0.5533 | 0.0165|
 
-/// Note | *I'm managing a team that lacks psychological safety, and team members are hesitant to share ideas. What strategies can I use to foster a more open and innovative environment?*
+/// Note | *Basic openai system prompt with chatgpt-4o* | I'm managing a team that lacks psychological safety, and team members are hesitant to share ideas. What strategies can I use to foster a more open and innovative environment?
 Creating an environment of psychological safety is crucial for fostering innovation and collaboration within a team. Here are some strategies you can implement to help your team feel more comfortable sharing ideas:
 
 1. **Lead by Example**: Demonstrate vulnerability by sharing your own mistakes and what you've learned from them. This sets a precedent that it's okay to take risks and fail.
@@ -96,9 +120,9 @@ By implementing these strategies, you can create a more open and innovative envi
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
-|0.6541788578033447 | 0.22655990719795227|
+|0.6542 | 0.2266|
 
-/// Note | *I'm leading a diverse team, and while diversity is beneficial, we're facing coordination challenges. How can I create an inclusive environment that leverages our diversity effectively?*
+/// Note | *Basic openai system prompt with chatgpt-4o* | I'm leading a diverse team, and while diversity is beneficial, we're facing coordination challenges. How can I create an inclusive environment that leverages our diversity effectively?
 Creating an inclusive environment that effectively leverages diversity is a crucial aspect of leading a successful team. Here are some strategies you can implement, drawing from principles in "Leading Effective Engineering Teams" and insights from tech leadership:
 
 1. **Foster Open Communication:**
@@ -142,9 +166,9 @@ By implementing these strategies, you can create a more inclusive environment th
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
-|0.6237872242927551 | 0.8420222401618958|
+|0.6238 | 0.842|
 
-/// Note | *I'm a new engineering leader and my team is delivering a lot of code, but I'm not sure if we're focusing on the right things. How can I ensure that we're being effective and not just efficient?*
+/// Note | *Basic openai system prompt with chatgpt-4o* | I'm a new engineering leader and my team is delivering a lot of code, but I'm not sure if we're focusing on the right things. How can I ensure that we're being effective and not just efficient?
 Congratulations on your new role as an engineering leader! It's great that you're thinking about effectiveness versus just efficiency. Here are some strategies to ensure your team is focusing on the right things:
 
 1. **Align with Business Goals**: Make sure your team's work aligns with the broader business objectives. Regularly communicate with stakeholders to understand the company's priorities and ensure your team's efforts are contributing to those goals.
@@ -176,9 +200,9 @@ By focusing on these strategies, you can help ensure that your team is not just 
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
-|0.6350783705711365 | 0.9983228445053101|
+|0.6351 | 0.9983|
 
-/// Note | *As an engineering leader, I'm trying to balance the productivity of my team with the quality of our output. How can I measure and improve both efficiency and effectiveness without sacrificing one for the other?*
+/// Note | *Basic openai system prompt with chatgpt-4o* | As an engineering leader, I'm trying to balance the productivity of my team with the quality of our output. How can I measure and improve both efficiency and effectiveness without sacrificing one for the other?
 Balancing productivity with quality is a common challenge for engineering leaders, but it's definitely achievable with the right approach. Here are some strategies to help you measure and improve both efficiency and effectiveness without sacrificing one for the other:
 
 1. **Define Clear Metrics**: Start by establishing clear metrics for both productivity and quality. For productivity, you might look at metrics like cycle time, throughput, or velocity. For quality, consider metrics such as defect rates, customer satisfaction, or code quality indicators like code review feedback.
@@ -210,9 +234,9 @@ By focusing on these strategies, you can create an environment where both produc
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
-|0.41058269143104553 | 0.0009833496296778321|
+|0.4106 | 0.001|
 
-/// Note | *I'm leading a team that has recently transitioned to using microservices and Kubernetes. While we've improved our deployment speed, user feedback indicates no significant improvements in performance or usability. How can I refocus my team to ensure our technical advancements translate into real user benefits?*
+/// Note | *Basic openai system prompt with chatgpt-4o* | I'm leading a team that has recently transitioned to using microservices and Kubernetes. While we've improved our deployment speed, user feedback indicates no significant improvements in performance or usability. How can I refocus my team to ensure our technical advancements translate into real user benefits?
 It's great to hear that your team has successfully transitioned to using microservices and Kubernetes, as these technologies can indeed enhance deployment speed and scalability. However, as you've noticed, technical advancements don't always directly translate into improved user experiences. Here are some strategies to refocus your team and ensure that your technical efforts lead to tangible user benefits:
 
 1. **User-Centric Metrics**: Start by identifying and tracking metrics that directly impact user experience, such as page load times, responsiveness, and error rates. Tools like Google Lighthouse can help you measure these aspects. Ensure that your team understands the importance of these metrics and how they relate to user satisfaction.
@@ -240,9 +264,9 @@ By refocusing your team on these areas, you can ensure that your technical advan
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
-|0.7111204266548157 | 0.9978136420249939|
+|0.7111 | 0.9978|
 
-/// Note | *I'm a new engineering leader and I'm struggling to define what effectiveness means for my team. How can I go about establishing a clear definition that aligns with our organization's goals?*
+/// Note | *Basic openai system prompt with chatgpt-4o* | I'm a new engineering leader and I'm struggling to define what effectiveness means for my team. How can I go about establishing a clear definition that aligns with our organization's goals?
 Congratulations on your new role as an engineering leader! Defining effectiveness for your team is a crucial step in aligning your efforts with the broader goals of your organization. Here are some steps and considerations to help you establish a clear definition of effectiveness:
 
 1. **Understand Organizational Goals**: Start by gaining a deep understanding of your organization's mission, vision, and strategic objectives. This will provide a foundation for aligning your team's goals with the broader organizational goals.
@@ -274,9 +298,9 @@ By taking these steps, you can create a clear and actionable definition of effec
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
-|0.7327080368995667 | 0.9561448693275452|
+|0.7327 | 0.9561|
 
-/// Note | *I'm an engineering leader with some experience, and I'm facing challenges with empowering my team to take ownership of their work. What strategies can I use to foster autonomy and accountability?*
+/// Note | *Basic openai system prompt with chatgpt-4o* | I'm an engineering leader with some experience, and I'm facing challenges with empowering my team to take ownership of their work. What strategies can I use to foster autonomy and accountability?
 Absolutely, I'd be happy to channel Addy Osmani's insights to help you foster autonomy and accountability within your engineering team. Here are some strategies you might consider:
 
 1. **Set Clear Expectations and Goals**: Clearly define what success looks like for your team and individual projects. This involves setting SMART (Specific, Measurable, Achievable, Relevant, Time-bound) goals. When team members understand the objectives and the impact of their work, they are more likely to take ownership.
@@ -308,9 +332,9 @@ By implementing these strategies, you can create a culture where your team feels
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
-|0.6236193776130676 | 0.9808667898178101|
+|0.6236 | 0.9809|
 
-/// Note | *I'm an experienced engineering leader, and I'm looking to scale the effectiveness of my team across the organization. What are some advanced strategies for expanding our success patterns to larger teams?*
+/// Note | *Basic openai system prompt with chatgpt-4o* | I'm an experienced engineering leader, and I'm looking to scale the effectiveness of my team across the organization. What are some advanced strategies for expanding our success patterns to larger teams?
 Absolutely, I'd be happy to channel Addy Osmani's insights to help you scale the effectiveness of your engineering team. Here are some advanced strategies to consider:
 
 1. **Define Clear Objectives and Key Results (OKRs):** Establish clear, measurable goals that align with the organization's vision. OKRs help teams focus on what matters most and provide a framework for measuring success. Ensure these are communicated effectively across the organization.
@@ -342,9 +366,9 @@ By implementing these strategies, you can help your team scale effectively while
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
-|0.5254360437393188 | 0.12664876878261566|
+|0.5254 | 0.1266|
 
-/// Note | *I'm a new engineering manager and I'm struggling to provide effective feedback to my team. What strategies can I use to improve my feedback skills?*
+/// Note | *Basic openai system prompt with chatgpt-4o* | I'm a new engineering manager and I'm struggling to provide effective feedback to my team. What strategies can I use to improve my feedback skills?
 As Addy Osmani, I'd be glad to share some strategies to help you provide effective feedback to your team. Providing feedback is a crucial part of being an engineering manager, and doing it well can significantly impact your team's performance and morale. Here are some strategies to consider:
 
 1. **Be Specific and Actionable**: When giving feedback, be clear about what the issue is and provide specific examples. Instead of saying, "Your code needs improvement," you might say, "In the last project, I noticed that the code lacked comments, which made it difficult for others to understand. Adding comments can improve code readability."
@@ -376,9 +400,9 @@ By incorporating these strategies, you'll be better equipped to provide feedback
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
-|0.7391484379768372 | 0.3039033114910126|
+|0.7391 | 0.3039|
 
-/// Note | *I'm an engineering leader trying to create a more inclusive team environment. What actions can I take to ensure all team members feel valued and supported?*
+/// Note | *Basic openai system prompt with chatgpt-4o* | I'm an engineering leader trying to create a more inclusive team environment. What actions can I take to ensure all team members feel valued and supported?
 Creating an inclusive team environment is crucial for fostering innovation, collaboration, and overall team satisfaction. Here are some actions you can take to ensure all team members feel valued and supported, drawing from principles in "Leading Effective Engineering Teams" and insights from Tech Leadership Tuesday:
 
 1. **Foster Open Communication:**
@@ -430,9 +454,9 @@ By implementing these actions, you can create a team environment where everyone 
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
-|0.6772847175598145 | 0.023155203089118004|
+|0.6773 | 0.0232|
 
-/// Note | *I'm leading a large engineering team and want to ensure psychological safety. How can I foster an environment where team members feel safe to express their ideas and concerns?*
+/// Note | *Basic openai system prompt with chatgpt-4o* | I'm leading a large engineering team and want to ensure psychological safety. How can I foster an environment where team members feel safe to express their ideas and concerns?
 Fostering psychological safety in a large engineering team is crucial for innovation, collaboration, and overall team effectiveness. Here are some strategies you can implement, drawing from principles in "Leading Effective Engineering Teams" and insights from Tech Leadership Tuesday:
 
 1. **Model Vulnerability and Openness**: As a leader, demonstrate vulnerability by sharing your own challenges and mistakes. This sets a tone that it's okay to be imperfect and encourages others to be open about their own struggles and ideas.
@@ -464,9 +488,9 @@ By implementing these strategies, you can create a psychologically safe environm
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
-|0.5487128496170044 | 0.5777642130851746|
+|0.5487 | 0.5778|
 
-/// Note | *I'm a new engineering leader and I've noticed that one of my team members is always the go-to person for a specific module. How can I ensure that this doesn't become a problem for the team?*
+/// Note | *Basic openai system prompt with chatgpt-4o* | I'm a new engineering leader and I've noticed that one of my team members is always the go-to person for a specific module. How can I ensure that this doesn't become a problem for the team?
 Congratulations on your new role as an engineering leader! It's great that you're already thinking about the long-term health and resilience of your team. Having a single go-to person for a specific module can indeed become a bottleneck and a risk if not managed properly. Here are some strategies to mitigate this issue:
 
 1. **Knowledge Sharing**: Encourage the go-to person to share their knowledge with the rest of the team. This can be done through regular knowledge-sharing sessions, documentation, or pair programming. The goal is to distribute the expertise across the team.
@@ -494,9 +518,9 @@ By implementing these strategies, you can help ensure that your team is more res
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
-|0.28841379284858704 | 0.9964331388473511|
+|0.2884 | 0.9964|
 
-/// Note | *I'm managing a team where one engineer is trying to work on multiple areas but isn't mastering any. How can I help them focus and develop expertise?*
+/// Note | *Basic openai system prompt with chatgpt-4o* | I'm managing a team where one engineer is trying to work on multiple areas but isn't mastering any. How can I help them focus and develop expertise?
 Certainly! Helping an engineer focus and develop expertise is a common challenge, but it's also an opportunity for growth for both the individual and the team. Here are some strategies you might consider:
 
 1. **Understand Their Interests and Goals**: Have a one-on-one conversation to understand what areas they are truly passionate about. Sometimes engineers spread themselves thin because they haven't found their niche yet. Encourage them to reflect on what excites them the most and where they see themselves growing.
@@ -524,9 +548,9 @@ By guiding them through this process, you'll help them develop a deeper expertis
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
-|0.6563706398010254 | 0.9800846576690674|
+|0.6564 | 0.9801|
 
-/// Note | *As an experienced engineering leader, I'm looking to create a more balanced team dynamic. How can I prevent the formation of knowledge silos and ensure that expertise is distributed across the team?*
+/// Note | *Basic openai system prompt with chatgpt-4o* | As an experienced engineering leader, I'm looking to create a more balanced team dynamic. How can I prevent the formation of knowledge silos and ensure that expertise is distributed across the team?
 Certainly! As Addy Osmani, I can share some insights on preventing knowledge silos and ensuring expertise is distributed across your team. Here are some strategies you might consider:
 
 1. **Promote a Culture of Knowledge Sharing**: Encourage open communication and collaboration. Create an environment where team members feel comfortable sharing their knowledge and asking questions. This can be fostered through regular team meetings, knowledge-sharing sessions, and an open-door policy.
@@ -558,9 +582,9 @@ By implementing these strategies, you can create a more balanced team dynamic wh
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
-|0.7489842772483826 | 0.022587595507502556|
+|0.749 | 0.0226|
 
-/// Note | *I'm a new engineering manager transitioning from an individual contributor role. I'm struggling with letting go of my technical tasks and focusing on people management. What strategies can help me make this transition effectively?*
+/// Note | *Basic openai system prompt with chatgpt-4o* | I'm a new engineering manager transitioning from an individual contributor role. I'm struggling with letting go of my technical tasks and focusing on people management. What strategies can help me make this transition effectively?
 Congratulations on your new role! Transitioning from an individual contributor to an engineering manager can be challenging, but it's also a rewarding opportunity to grow and make a broader impact. Here are some strategies to help you make this transition effectively:
 
 1. **Shift Your Mindset**: Understand that your success is now measured by the success of your team. Your role is to enable and empower your team members to do their best work, rather than focusing on your individual technical contributions.
@@ -592,9 +616,9 @@ Remember, transitioning to a management role is a journey. Be patient with yours
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
-|0.7450585961341858 | 0.0005739149637520313|
+|0.7451 | 0.0006|
 
-/// Note | *As an engineering manager in a large organization, I'm finding it challenging to navigate complex team dynamics and ensure effective communication. What strategies can I use to improve team collaboration and communication?*
+/// Note | *Basic openai system prompt with chatgpt-4o* | As an engineering manager in a large organization, I'm finding it challenging to navigate complex team dynamics and ensure effective communication. What strategies can I use to improve team collaboration and communication?
 Navigating complex team dynamics and ensuring effective communication are common challenges for engineering managers. Here are some strategies that can help improve team collaboration and communication, drawing from principles in "Leading Effective Engineering Teams" and insights from Tech Leadership Tuesday:
 
 1. **Foster a Culture of Psychological Safety**: Encourage an environment where team members feel safe to express their ideas, ask questions, and admit mistakes without fear of judgment. This can lead to more open communication and innovation.
@@ -626,9 +650,9 @@ By implementing these strategies, you can create a more cohesive and communicati
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
-|0.6494000554084778 | 0.7401673197746277|
+|0.6494 | 0.7402|
 
-/// Note | *As an experienced engineering manager, I'm looking to refine my management strategy to better balance innovation and stability. How can I effectively assess and manage calculated risks within my team?*
+/// Note | *Basic openai system prompt with chatgpt-4o* | As an experienced engineering manager, I'm looking to refine my management strategy to better balance innovation and stability. How can I effectively assess and manage calculated risks within my team?
 Balancing innovation and stability is a crucial aspect of effective engineering management. Here are some strategies to help you assess and manage calculated risks within your team:
 
 1. **Foster a Culture of Experimentation**: Encourage your team to experiment and innovate by creating a safe environment where failure is seen as a learning opportunity. This can be achieved by celebrating small wins and learning from setbacks without assigning blame.
@@ -660,9 +684,9 @@ By implementing these strategies, you can create an environment where innovation
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
-|0.7032344937324524 | 0.9970743060112|
+|0.7032 | 0.9971|
 
-/// Note | *I'm a new engineering leader and I'm struggling to understand the difference between leadership and management. How can I effectively balance both roles in my team?*
+/// Note | *Basic openai system prompt with chatgpt-4o* | I'm a new engineering leader and I'm struggling to understand the difference between leadership and management. How can I effectively balance both roles in my team?
 Congratulations on stepping into your new role as an engineering leader! It's a journey filled with opportunities to make a significant impact on your team and organization. Understanding the distinction between leadership and management is crucial, and balancing both roles effectively can lead to a thriving team.
 
 **Leadership vs. Management:**
@@ -708,9 +732,9 @@ Remember, effective engineering leadership is about creating an environment wher
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
-|0.7621110677719116 | 0.9784085154533386|
+|0.7621 | 0.9784|
 
-/// Note | *As an engineering manager, I find it challenging to align my team with organizational priorities while maintaining their motivation. What strategies can I use to achieve this balance?*
+/// Note | *Basic openai system prompt with chatgpt-4o* | As an engineering manager, I find it challenging to align my team with organizational priorities while maintaining their motivation. What strategies can I use to achieve this balance?
 Balancing organizational priorities with team motivation is indeed a common challenge for engineering managers. Drawing from the principles in "Leading Effective Engineering Teams" and insights from Tech Leadership Tuesday, here are some strategies you can use to achieve this balance:
 
 1. **Clear Communication of Vision and Goals**: Ensure that your team understands the broader organizational vision and how their work contributes to it. Regularly communicate the "why" behind projects and decisions. This helps in aligning their efforts with organizational priorities and gives them a sense of purpose.

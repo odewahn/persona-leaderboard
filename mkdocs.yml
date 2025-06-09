@@ -1,16 +1,40 @@
 site_name: Persona Leaderboard
 repo_url: https://github.com/odewahn/persona-leaderboard
 nav:
-  - Home: index.md
-  - Basic gpt4o: basic-gpt4o.md
-  - Basic gpt4o-mini: basic-gpt4o-mini.md
-  - gpt-3.5: basic-gpt3.5.md
-  - tmpt.me:  tmpt-me.md
-  - OpenAI generated prompt: openai-generated-prompt.md
-  - chatGPT: chatgpt.md
-  - CL System Prompt example 1: cl-gradio-pe1.md
+  - Overview: index.md
+  - Evaluations by model:
+    - Basic gpt4o: basic-gpt4o.md
+    - Basic gpt4o-mini: basic-gpt4o-mini.md
+    - gpt-3.5: basic-gpt3.5.md
+    - tmpt.me:  tmpt-me.md
+    - OpenAI generated prompt: openai-generated-prompt.md
+    - chatGPT: chatgpt.md
+    - CL System Prompt example 1: cl-gradio-pe1.md
+  - Evaluations by Question:
+    - Question 0: question-0.md
+    - Question 1: question-1.md
+    - Question 2: question-2.md
+    - Question 3: question-3.md
+    - Question 4: question-4.md
+    - Question 5: question-5.md
+    - Question 6: question-6.md
+    - Question 7: question-7.md
+    - Question 8: question-8.md
+    - Question 9: question-9.md
+    - Question 10: question-10.md
+    - Question 11: question-11.md
+    - Question 12: question-12.md
+    - Question 13: question-13.md
+    - Question 14: question-14.md
+    - Question 15: question-15.md
+    - Question 16: question-16.md
+    - Question 17: question-17.md
+    - Question 18: question-18.md
+    - Question 19: question-19.md
 theme:
-  material
+  name: material
+  features:
+    - navigation.expand
 markdown_extensions:
   - pymdownx.blocks.admonition
   - pymdownx.highlight:

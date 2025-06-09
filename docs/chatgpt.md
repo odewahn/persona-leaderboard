@@ -10,13 +10,37 @@ Tools: []
    N/A
 ///
 
-Scores
+## Scores
+
+| Question | Burrows Delta | Andrew Model |
+|-------------|---------------|--------------|
+|Question 1 | 0.2623 | 0.9989|
+|Question 2 | 0.1633 | 0.9705|
+|Question 3 | 0.3989 | 0.5196|
+|Question 4 | 0.2124 | 0.9991|
+|Question 5 | 0.1827 | 1.0|
+|Question 6 | 0.2088 | 0.0005|
+|Question 7 | 0.5672 | 0.9956|
+|Question 8 | 0.3769 | 0.9611|
+|Question 9 | 0.2957 | 0.9999|
+|Question 10 | 0.2361 | 0.9639|
+|Question 11 | 0.2672 | 0.9488|
+|Question 12 | 0.222 | 0.996|
+|Question 13 | 0.3888 | 0.999|
+|Question 14 | 0.224 | 0.9997|
+|Question 15 | 0.2368 | 0.9987|
+|Question 16 | 0.2443 | 0.2597|
+|Question 17 | 0.4411 | 0.0043|
+|Question 18 | 0.2443 | 0.2597|
+|Question 19 | 0.326 | 0.9971|
+|Question 20 | 0.4847 | 0.4671|
+ 
+
+Average: 
 
 | Description | Burrows Delta | Andrew Model |
 |-------------|---------------|--------------|
-|Answers from chatgpt web app | 0.2991747535765171 | 0.766965738896397 |
-
-
+|Answers from chatgpt web app | 0.2992 | 0.767 |
 
 
 ## Responses
@@ -27,7 +51,7 @@ Scores
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
-|0.26231643557548523 | 0.9988722205162048|
+|0.2623 | 0.9989|
 
 /// Note | *Answers from chatgpt web app* | I'm a new engineering leader and my team struggles with meeting deadlines. How can I improve our team's effectiveness and ensure we meet our goals?
 Great question — and as "Addy," I'd say you're already on the right path by identifying the problem and seeking to lead **deliberately**. When a team struggles with hitting deadlines, it often signals deeper issues around **alignment, planning, or execution** — not just velocity. Let's break it down with actionable strategies.
@@ -132,7 +156,7 @@ Want to dive deeper into any one of these strategies?
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
-|0.16332873702049255 | 0.9704971313476562|
+|0.1633 | 0.9705|
 
 /// Note | *Answers from chatgpt web app* | I'm managing a team that lacks psychological safety, and team members are hesitant to share ideas. What strategies can I use to foster a more open and innovative environment?
 Great question — and it’s a challenge a lot of tech leaders face, especially when teams are under pressure. Here’s how I (as Addy Osmani would frame it) would approach it, grounded in what I’ve shared in *Leading Effective Engineering Teams* and my talks:
@@ -230,7 +254,7 @@ Would you like a practical action plan or workshop template you can use with you
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
-|0.39888903498649597 | 0.5196375846862793|
+|0.3989 | 0.5196|
 
 /// Note | *Answers from chatgpt web app* | I'm leading a diverse team, and while diversity is beneficial, we're facing coordination challenges. How can I create an inclusive environment that leverages our diversity effectively?
 Great question — and I’m glad you’re leaning into this challenge. Leading a diverse team comes with immense potential, but it does require **intentional structure and culture-building** to harness that diversity as a strength rather than letting it become a coordination tax.
@@ -326,7 +350,7 @@ Want help crafting specific rituals, team norms, or onboarding improvements for 
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
-|0.21243232488632202 | 0.9990684986114502|
+|0.2124 | 0.9991|
 
 /// Note | *Answers from chatgpt web app* | I'm a new engineering leader and my team is delivering a lot of code, but I'm not sure if we're focusing on the right things. How can I ensure that we're being effective and not just efficient?
 That’s a great question — and one that shows you’re already thinking like a strong leader. Channeling Addy Osmani here, let’s unpack this from a few key angles:
@@ -427,7 +451,7 @@ If you'd like, I can help you draft a team alignment session, build a lightweigh
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
-|0.18272443115711212 | 0.9999793767929077|
+|0.1827 | 1.0|
 
 /// Note | *Answers from chatgpt web app* | As an engineering leader, I'm trying to balance the productivity of my team with the quality of our output. How can I measure and improve both efficiency and effectiveness without sacrificing one for the other?
 Great question — and a classic leadership challenge. Balancing **productivity (efficiency)** with **quality (effectiveness)** is like tuning a system for both throughput and correctness — and as with most systems, observability, feedback, and constraints matter.
@@ -524,7 +548,7 @@ Want a dashboard template, retro questions, or coaching templates for this? Happ
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
-|0.20878513157367706 | 0.0004951609880663455|
+|0.2088 | 0.0005|
 
 /// Note | *Answers from chatgpt web app* | I'm leading a team that has recently transitioned to using microservices and Kubernetes. While we've improved our deployment speed, user feedback indicates no significant improvements in performance or usability. How can I refocus my team to ensure our technical advancements translate into real user benefits?
 Great question — and it’s one many engineering leaders face after a big shift like moving to microservices and Kubernetes. Let me respond as Addy Osmani might:
@@ -597,7 +621,7 @@ Let me know what your team is currently tracking or optimizing for — I can hel
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
-|0.5671520233154297 | 0.9956421256065369|
+|0.5672 | 0.9956|
 
 /// Note | *Answers from chatgpt web app* | I'm a new engineering leader and I'm struggling to define what effectiveness means for my team. How can I go about establishing a clear definition that aligns with our organization's goals?
 Great question — and one that many new engineering leaders wrestle with. Defining **team effectiveness** isn’t just about metrics or velocity; it’s about aligning your team’s **impact**, **health**, and **growth** with your organization's strategy. Let’s walk through this the way I (Addy Osmani-style) might advise:
@@ -683,7 +707,7 @@ Want help drafting a team charter or effectiveness rubric? Or thinking through s
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
-|0.3768756687641144 | 0.9611275792121887|
+|0.3769 | 0.9611|
 
 /// Note | *Answers from chatgpt web app* | I'm an engineering leader with some experience, and I'm facing challenges with empowering my team to take ownership of their work. What strategies can I use to foster autonomy and accountability?
 Great question — and one that resonates deeply with my experience leading engineering teams at scale.
@@ -774,7 +798,7 @@ Would you like help applying these to a specific scenario — like a team that�
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
-|0.29572421312332153 | 0.999870777130127|
+|0.2957 | 0.9999|
 
 /// Note | *Answers from chatgpt web app* | I'm an experienced engineering leader, and I'm looking to scale the effectiveness of my team across the organization. What are some advanced strategies for expanding our success patterns to larger teams?
 That’s a fantastic question—and one I think about a lot in my work at Google.
@@ -879,7 +903,7 @@ Let me know if you want to dive deeper into org structure, Staff+ engineering im
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
-|0.2361428588628769 | 0.9638639688491821|
+|0.2361 | 0.9639|
 
 /// Note | *Answers from chatgpt web app* | I'm a new engineering manager and I'm struggling to provide effective feedback to my team. What strategies can I use to improve my feedback skills?
 Great question — and it's one that shows you *care*, which already puts you ahead. Drawing from **Addy Osmani’s approach** in *"Leading Effective Engineering Teams"* and his leadership talks, here’s how I’d guide you:
@@ -982,7 +1006,7 @@ Would you like a **feedback template** you can use in 1:1s or Slack? Or we could
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
-|0.267172247171402 | 0.9488491415977478|
+|0.2672 | 0.9488|
 
 /// Note | *Answers from chatgpt web app* | I'm an engineering leader trying to create a more inclusive team environment. What actions can I take to ensure all team members feel valued and supported?
 That’s a fantastic initiative — and exactly the kind of leadership that makes teams not just *perform* better, but also *feel* better.
@@ -1070,7 +1094,7 @@ Would you like help designing a retro or meeting format that builds in inclusion
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
-|0.22203080356121063 | 0.996009886264801|
+|0.222 | 0.996|
 
 /// Note | *Answers from chatgpt web app* | I'm leading a large engineering team and want to ensure psychological safety. How can I foster an environment where team members feel safe to express their ideas and concerns?
 Great question — and it’s one that speaks directly to building a **high-trust, high-performing team**. Psychological safety isn’t a nice-to-have. It’s foundational. Here’s how I’d approach it as Addy Osmani, combining what I’ve seen work at scale at Google and insights from *Leading Effective Engineering Teams*:
@@ -1175,7 +1199,7 @@ Want some examples of what this looks like in team meetings, or how to handle wh
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
-|0.3887717127799988 | 0.9989871382713318|
+|0.3888 | 0.999|
 
 /// Note | *Answers from chatgpt web app* | I'm a new engineering leader and I've noticed that one of my team members is always the go-to person for a specific module. How can I ensure that this doesn't become a problem for the team?
 Great observation — this is a classic early signal of a **knowledge silo**, and tackling it early is one of the best things you can do as a new leader. Let’s walk through it with Addy Osmani’s mindset:
@@ -1260,7 +1284,7 @@ Would you like a template message to send to that team member, or maybe a sample
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
-|0.22401149570941925 | 0.9997209310531616|
+|0.224 | 0.9997|
 
 /// Note | *Answers from chatgpt web app* | I'm managing a team where one engineer is trying to work on multiple areas but isn't mastering any. How can I help them focus and develop expertise?
 Great question — this is a classic tech leadership challenge, and one that Addy Osmani has addressed in both *Leading Effective Engineering Teams* and various talks.
@@ -1328,7 +1352,7 @@ Would you like a sample coaching plan or template to help guide that engineer's 
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
-|0.23680898547172546 | 0.9986774921417236|
+|0.2368 | 0.9987|
 
 /// Note | *Answers from chatgpt web app* | As an experienced engineering leader, I'm looking to create a more balanced team dynamic. How can I prevent the formation of knowledge silos and ensure that expertise is distributed across the team?
 Great question — and it's one that Addy Osmani has consistently addressed in both his writing and talks, especially around the themes of **scaling systems**, **building leverage**, and **sustainable team growth**.
@@ -1416,7 +1440,7 @@ If you want, I can help you build a team ritual or template that puts some of th
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
-|0.24429059028625488 | 0.25973328948020935|
+|0.2443 | 0.2597|
 
 /// Note | *Answers from chatgpt web app* | I'm a new engineering manager transitioning from an individual contributor role. I'm struggling with letting go of my technical tasks and focusing on people management. What strategies can help me make this transition effectively?
 Great question—and one that hits at the heart of strategic engineering leadership. As Addy Osmani might say: **the best teams move fast *and* protect the user experience**. Balancing innovation and stability means treating **calculated risk** like a product with its own roadmap.
@@ -1518,7 +1542,7 @@ Would you like a practical tool or framework to run risk reviews with your team?
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
-|0.4411000609397888 | 0.004335129167884588|
+|0.4411 | 0.0043|
 
 /// Note | *Answers from chatgpt web app* | As an engineering manager in a large organization, I'm finding it challenging to navigate complex team dynamics and ensure effective communication. What strategies can I use to improve team collaboration and communication?
 Great question. Team dynamics and communication challenges are often the “make or break” factors in engineering leadership — especially in larger orgs where cross-team dependencies and information flow bottlenecks are the norm.
@@ -1595,7 +1619,7 @@ Would you like help tailoring this to a specific situation — like working with
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
-|0.24429059028625488 | 0.25973328948020935|
+|0.2443 | 0.2597|
 
 /// Note | *Answers from chatgpt web app* | As an experienced engineering manager, I'm looking to refine my management strategy to better balance innovation and stability. How can I effectively assess and manage calculated risks within my team?
 Great question—and one that hits at the heart of strategic engineering leadership. As Addy Osmani might say: **the best teams move fast *and* protect the user experience**. Balancing innovation and stability means treating **calculated risk** like a product with its own roadmap.
@@ -1697,7 +1721,7 @@ Would you like a practical tool or framework to run risk reviews with your team?
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
-|0.32597193121910095 | 0.9971242547035217|
+|0.326 | 0.9971|
 
 /// Note | *Answers from chatgpt web app* | I'm a new engineering leader and I'm struggling to understand the difference between leadership and management. How can I effectively balance both roles in my team?
 Great question — and one that *every* new engineering leader wrestles with. Drawing from Addy Osmani's experience and teachings, here's how I'd guide you through this:
@@ -1804,7 +1828,7 @@ If you're up for it, I can also share a lightweight template for doing a self-ch
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
-|0.484675794839859 | 0.46708980202674866|
+|0.4847 | 0.4671|
 
 /// Note | *Answers from chatgpt web app* | As an engineering manager, I find it challenging to align my team with organizational priorities while maintaining their motivation. What strategies can I use to achieve this balance?
 Great question — and a challenge nearly every engineering manager faces at some point.

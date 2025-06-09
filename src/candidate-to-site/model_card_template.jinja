@@ -10,13 +10,19 @@ Tools: {{config.tools}}
    {{system_prompt}}
 ///
 
-Scores
+## Scores
+
+| Question | Burrows Delta | Andrew Model |
+|-------------|---------------|--------------|
+{% for eval in evaluation -%}
+|Question {{loop.index}} | {{eval.eval.burrows_delta.score}} | {{eval.eval.andreww_model.score}}|
+{% endfor %} 
+
+Average: 
 
 | Description | Burrows Delta | Andrew Model |
 |-------------|---------------|--------------|
 |{{config.description}} | {{scores.burrows_delta}} | {{scores.andreww_model}} |
-
-
 
 
 ## Responses

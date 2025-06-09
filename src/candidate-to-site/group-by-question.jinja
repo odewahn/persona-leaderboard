@@ -1,0 +1,13 @@
+# {{question}}
+
+{% for candidate in candidates %}
+
+##  {{candidate.candidate}}
+| Burrows Delta | Andrew Model |
+|---------------|---------------|
+|{{candidate.eval.burrows_delta.score}} | {{candidate.eval.andreww_model.score}}|
+
+<div class=answer>
+{{candidate.answer}}
+</div>
+{% endfor %}
