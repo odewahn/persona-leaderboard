@@ -1,0 +1,3 @@
+I'm doing an experiment where I'm using a variety of LLM-based approaches to answer the same 20 qustions, and then trying to determine which approach is the best.  The following text lists the questions and then shows the individual reviews of each approach.  I would like you to summarize the strengths and weaknesses of each approach, as well as provide a tally of which were ultimately deemed the best models.
+
+{{content}}

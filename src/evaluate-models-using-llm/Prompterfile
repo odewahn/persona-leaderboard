@@ -1,0 +1,5 @@
+load ../../docs/question\*.md
+complete evaluate-candidates.md
+retag candidate-reviews.md
+squash
+complete summarize.md --model=gpt-4o

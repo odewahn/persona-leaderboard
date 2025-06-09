@@ -3,13 +3,13 @@ repo_url: https://github.com/odewahn/persona-leaderboard
 nav:
   - Overview: index.md
   - Evaluations by model:
+    - chatGPT: chatgpt.md
+    - tmpt.me:  tmpt-me.md
+    - CL System Prompt example 1: cl-gradio-pe1.md
     - Basic gpt4o: basic-gpt4o.md
     - Basic gpt4o-mini: basic-gpt4o-mini.md
     - gpt-3.5: basic-gpt3.5.md
-    - tmpt.me:  tmpt-me.md
     - OpenAI generated prompt: openai-generated-prompt.md
-    - chatGPT: chatgpt.md
-    - CL System Prompt example 1: cl-gradio-pe1.md
   - Evaluations by Question:
     - Question 0: question-0.md
     - Question 1: question-1.md
