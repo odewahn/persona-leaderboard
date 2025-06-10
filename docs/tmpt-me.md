@@ -14,26 +14,26 @@ Tools: []
 
 | Question | Burrows Delta | Andrew Model |
 |-------------|---------------|--------------|
-|Question 1 | 0.6389 | 0.9966|
-|Question 2 | 0.5701 | 0.5027|
-|Question 3 | 0.5681 | 0.9774|
-|Question 4 | 0.4617 | 0.9964|
-|Question 5 | 0.3197 | 0.9789|
-|Question 6 | 0.4276 | 0.0|
-|Question 7 | 0.5992 | 0.9992|
-|Question 8 | 0.4736 | 0.9993|
-|Question 9 | 0.3962 | 1.0|
-|Question 10 | 0.3919 | 0.0169|
-|Question 11 | 0.6054 | 0.9474|
-|Question 12 | 0.5573 | 0.0128|
-|Question 13 | 0.5852 | 0.9999|
-|Question 14 | 0.1912 | 0.7025|
-|Question 15 | 0.5362 | 0.8547|
-|Question 16 | 0.6783 | 0.9993|
-|Question 17 | 0.6476 | 0.8899|
-|Question 18 | 0.6774 | 0.8793|
-|Question 19 | 0.3945 | 0.9999|
-|Question 20 | 0.6375 | 0.9343|
+|Question 0 | 0.6389 | 0.9966|
+|Question 1 | 0.5701 | 0.5027|
+|Question 2 | 0.5681 | 0.9774|
+|Question 3 | 0.4617 | 0.9964|
+|Question 4 | 0.3197 | 0.9789|
+|Question 5 | 0.4276 | 0.0|
+|Question 6 | 0.5992 | 0.9992|
+|Question 7 | 0.4736 | 0.9993|
+|Question 8 | 0.3962 | 1.0|
+|Question 9 | 0.3919 | 0.0169|
+|Question 10 | 0.6054 | 0.9474|
+|Question 11 | 0.5573 | 0.0128|
+|Question 12 | 0.5852 | 0.9999|
+|Question 13 | 0.1912 | 0.7025|
+|Question 14 | 0.5362 | 0.8547|
+|Question 15 | 0.6783 | 0.9993|
+|Question 16 | 0.6476 | 0.8899|
+|Question 17 | 0.6774 | 0.8793|
+|Question 18 | 0.3945 | 0.9999|
+|Question 19 | 0.6375 | 0.9343|
  
 
 Average: 
@@ -47,7 +47,7 @@ Average:
 
 
 
-### Question 1
+### Question 0
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -63,7 +63,7 @@ Additionally, focus on individual effectiveness by helping team members prioriti
 
 
 
-### Question 2
+### Question 1
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -79,7 +79,7 @@ It's also important to balance autonomy with support. Allow team members the fre
 
 
 
-### Question 3
+### Question 2
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -93,7 +93,7 @@ Additionally, consider assigning tasks that align with each team member’s stre
 
 
 
-### Question 4
+### Question 3
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -107,7 +107,7 @@ Implement goal-setting frameworks that emphasize the importance of doing the rig
 
 
 
-### Question 5
+### Question 4
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -123,7 +123,7 @@ Encourage a culture that values outcomes over mere outputs. This can be done by 
 
 
 
-### Question 6
+### Question 5
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -137,7 +137,7 @@ Additionally, establish clear metrics that align with user satisfaction and perf
 
 
 
-### Question 7
+### Question 6
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -153,7 +153,7 @@ Finally, implement a system for measuring progress and provide timely feedback. 
 
 
 
-### Question 8
+### Question 7
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -171,7 +171,7 @@ Finally, promote a sense of ownership by allowing teams to take charge of specif
 
 
 
-### Question 9
+### Question 8
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -187,7 +187,7 @@ Additionally, as your responsibilities grow, shift your focus from individual te
 
 
 
-### Question 10
+### Question 9
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -203,7 +203,7 @@ Finally, foster an open dialogue by encouraging your team to share their feedbac
 
 
 
-### Question 11
+### Question 10
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -219,7 +219,7 @@ Promote psychological safety by establishing forums where team members can anony
 
 
 
-### Question 12
+### Question 11
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -233,7 +233,7 @@ Additionally, establish forums or channels where team members can anonymously sh
 
 
 
-### Question 13
+### Question 12
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -245,7 +245,7 @@ It's great that you're proactive about addressing this potential issue. When one
 
 
 
-### Question 14
+### Question 13
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -259,7 +259,7 @@ You can also pair them with a mentor who has expertise in their area of interest
 
 
 
-### Question 15
+### Question 14
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -275,7 +275,7 @@ Finally, consider instituting rotation programs where team members can work on d
 
 
 
-### Question 16
+### Question 15
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -291,7 +291,7 @@ Lastly, remember that the satisfaction from your work will change. While you may
 
 
 
-### Question 17
+### Question 16
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -309,7 +309,7 @@ Lastly, adopt an inclusive approach to communication. Make sure all relevant sta
 
 
 
-### Question 18
+### Question 17
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -325,7 +325,7 @@ Finally, foster a culture of foresight by encouraging the development of conting
 
 
 
-### Question 19
+### Question 18
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -339,7 +339,7 @@ To effectively balance both roles, start by integrating leadership qualities int
 
 
 
-### Question 20
+### Question 19
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|

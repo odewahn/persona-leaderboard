@@ -15,7 +15,7 @@ Tools: {{config.tools}}
 | Question | Burrows Delta | Andrew Model |
 |-------------|---------------|--------------|
 {% for eval in evaluation -%}
-|Question {{loop.index}} | {{eval.eval.burrows_delta.score}} | {{eval.eval.andreww_model.score}}|
+|Question {{loop.index0}} | {{eval.eval.burrows_delta.score}} | {{eval.eval.andreww_model.score}}|
 {% endfor %} 
 
 Average: 
@@ -29,7 +29,7 @@ Average:
 
 {% for eval in evaluation %}
 
-### Question {{loop.index}}
+### Question {{loop.index0}}
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|

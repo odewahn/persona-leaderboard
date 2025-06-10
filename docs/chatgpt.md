@@ -14,26 +14,26 @@ Tools: []
 
 | Question | Burrows Delta | Andrew Model |
 |-------------|---------------|--------------|
-|Question 1 | 0.2623 | 0.9989|
-|Question 2 | 0.1633 | 0.9705|
-|Question 3 | 0.3989 | 0.5196|
-|Question 4 | 0.2124 | 0.9991|
-|Question 5 | 0.1827 | 1.0|
-|Question 6 | 0.2088 | 0.0005|
-|Question 7 | 0.5672 | 0.9956|
-|Question 8 | 0.3769 | 0.9611|
-|Question 9 | 0.2957 | 0.9999|
-|Question 10 | 0.2361 | 0.9639|
-|Question 11 | 0.2672 | 0.9488|
-|Question 12 | 0.222 | 0.996|
-|Question 13 | 0.3888 | 0.999|
-|Question 14 | 0.224 | 0.9997|
-|Question 15 | 0.2368 | 0.9987|
-|Question 16 | 0.2443 | 0.2597|
-|Question 17 | 0.4411 | 0.0043|
-|Question 18 | 0.2443 | 0.2597|
-|Question 19 | 0.326 | 0.9971|
-|Question 20 | 0.4847 | 0.4671|
+|Question 0 | 0.2623 | 0.9989|
+|Question 1 | 0.1633 | 0.9705|
+|Question 2 | 0.3989 | 0.5196|
+|Question 3 | 0.2124 | 0.9991|
+|Question 4 | 0.1827 | 1.0|
+|Question 5 | 0.2088 | 0.0005|
+|Question 6 | 0.5672 | 0.9956|
+|Question 7 | 0.3769 | 0.9611|
+|Question 8 | 0.2957 | 0.9999|
+|Question 9 | 0.2361 | 0.9639|
+|Question 10 | 0.2672 | 0.9488|
+|Question 11 | 0.222 | 0.996|
+|Question 12 | 0.3888 | 0.999|
+|Question 13 | 0.224 | 0.9997|
+|Question 14 | 0.2368 | 0.9987|
+|Question 15 | 0.2443 | 0.2597|
+|Question 16 | 0.4411 | 0.0043|
+|Question 17 | 0.2443 | 0.2597|
+|Question 18 | 0.326 | 0.9971|
+|Question 19 | 0.4847 | 0.4671|
  
 
 Average: 
@@ -47,7 +47,7 @@ Average:
 
 
 
-### Question 1
+### Question 0
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -152,7 +152,7 @@ Want to dive deeper into any one of these strategies?
 
 
 
-### Question 2
+### Question 1
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -250,7 +250,7 @@ Would you like a practical action plan or workshop template you can use with you
 
 
 
-### Question 3
+### Question 2
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -346,7 +346,7 @@ Want help crafting specific rituals, team norms, or onboarding improvements for 
 
 
 
-### Question 4
+### Question 3
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -447,7 +447,7 @@ If you'd like, I can help you draft a team alignment session, build a lightweigh
 
 
 
-### Question 5
+### Question 4
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -544,7 +544,7 @@ Want a dashboard template, retro questions, or coaching templates for this? Happ
 
 
 
-### Question 6
+### Question 5
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -617,7 +617,7 @@ Let me know what your team is currently tracking or optimizing for — I can hel
 
 
 
-### Question 7
+### Question 6
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -703,7 +703,7 @@ Want help drafting a team charter or effectiveness rubric? Or thinking through s
 
 
 
-### Question 8
+### Question 7
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -794,7 +794,7 @@ Would you like help applying these to a specific scenario — like a team that�
 
 
 
-### Question 9
+### Question 8
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -899,7 +899,7 @@ Let me know if you want to dive deeper into org structure, Staff+ engineering im
 
 
 
-### Question 10
+### Question 9
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -1002,7 +1002,7 @@ Would you like a **feedback template** you can use in 1:1s or Slack? Or we could
 
 
 
-### Question 11
+### Question 10
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -1090,7 +1090,7 @@ Would you like help designing a retro or meeting format that builds in inclusion
 
 
 
-### Question 12
+### Question 11
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -1195,7 +1195,7 @@ Want some examples of what this looks like in team meetings, or how to handle wh
 
 
 
-### Question 13
+### Question 12
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -1280,7 +1280,7 @@ Would you like a template message to send to that team member, or maybe a sample
 
 
 
-### Question 14
+### Question 13
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -1348,7 +1348,7 @@ Would you like a sample coaching plan or template to help guide that engineer's 
 
 
 
-### Question 15
+### Question 14
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -1436,7 +1436,7 @@ If you want, I can help you build a team ritual or template that puts some of th
 
 
 
-### Question 16
+### Question 15
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -1538,7 +1538,7 @@ Would you like a practical tool or framework to run risk reviews with your team?
 
 
 
-### Question 17
+### Question 16
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -1615,7 +1615,7 @@ Would you like help tailoring this to a specific situation — like working with
 
 
 
-### Question 18
+### Question 17
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -1717,7 +1717,7 @@ Would you like a practical tool or framework to run risk reviews with your team?
 
 
 
-### Question 19
+### Question 18
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -1824,7 +1824,7 @@ If you're up for it, I can also share a lightweight template for doing a self-ch
 
 
 
-### Question 20
+### Question 19
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|

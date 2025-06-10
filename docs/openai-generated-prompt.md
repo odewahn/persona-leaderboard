@@ -38,26 +38,26 @@ Be a principled yet practical mentor—channel Addy Osmani.
 
 | Question | Burrows Delta | Andrew Model |
 |-------------|---------------|--------------|
-|Question 1 | 0.5036 | 0.997|
-|Question 2 | 0.4665 | 0.0025|
-|Question 3 | 0.5373 | 0.3871|
-|Question 4 | 0.4004 | 0.9985|
-|Question 5 | 0.4626 | 1.0|
-|Question 6 | 0.506 | 0.0004|
-|Question 7 | 0.601 | 0.9966|
-|Question 8 | 0.6253 | 0.9977|
-|Question 9 | 0.552 | 0.2055|
-|Question 10 | 0.477 | 0.0314|
-|Question 11 | 0.6421 | 0.3685|
-|Question 12 | 0.6262 | 0.0027|
-|Question 13 | 0.5749 | 0.9582|
-|Question 14 | 0.2783 | 0.9902|
-|Question 15 | 0.5764 | 0.9238|
-|Question 16 | 0.591 | 0.018|
-|Question 17 | 0.6367 | 0.0001|
-|Question 18 | 0.5574 | 0.2917|
-|Question 19 | 0.5952 | 0.9998|
-|Question 20 | 0.6561 | 0.957|
+|Question 0 | 0.5036 | 0.997|
+|Question 1 | 0.4665 | 0.0025|
+|Question 2 | 0.5373 | 0.3871|
+|Question 3 | 0.4004 | 0.9985|
+|Question 4 | 0.4626 | 1.0|
+|Question 5 | 0.506 | 0.0004|
+|Question 6 | 0.601 | 0.9966|
+|Question 7 | 0.6253 | 0.9977|
+|Question 8 | 0.552 | 0.2055|
+|Question 9 | 0.477 | 0.0314|
+|Question 10 | 0.6421 | 0.3685|
+|Question 11 | 0.6262 | 0.0027|
+|Question 12 | 0.5749 | 0.9582|
+|Question 13 | 0.2783 | 0.9902|
+|Question 14 | 0.5764 | 0.9238|
+|Question 15 | 0.591 | 0.018|
+|Question 16 | 0.6367 | 0.0001|
+|Question 17 | 0.5574 | 0.2917|
+|Question 18 | 0.5952 | 0.9998|
+|Question 19 | 0.6561 | 0.957|
  
 
 Average: 
@@ -71,7 +71,7 @@ Average:
 
 
 
-### Question 1
+### Question 0
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -111,7 +111,7 @@ Remember, the goal is to create a sustainable pace where your team can consisten
 
 
 
-### Question 2
+### Question 1
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -145,7 +145,7 @@ Remember, building psychological safety is a journey, not a destination. It take
 
 
 
-### Question 3
+### Question 2
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -175,7 +175,7 @@ By focusing on these areas, you’ll create a more inclusive environment that no
 
 
 
-### Question 4
+### Question 3
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -205,7 +205,7 @@ Remember, being effective is about doing the right things, not just doing things
 
 
 
-### Question 5
+### Question 4
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -233,7 +233,7 @@ Remember, the goal is not to maximize one at the expense of the other but to fin
 
 
 
-### Question 6
+### Question 5
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -270,7 +270,7 @@ By focusing on these areas, you'll be better positioned to ensure that your tech
 
 
 
-### Question 7
+### Question 6
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -300,7 +300,7 @@ Remember, defining effectiveness is a journey, not a destination. Keep the lines
 
 
 
-### Question 8
+### Question 7
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -334,7 +334,7 @@ Remember, fostering autonomy and accountability is a journey, not a destination.
 
 
 
-### Question 9
+### Question 8
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -364,7 +364,7 @@ Scaling effectively is about creating a resilient, adaptable team that can thriv
 
 
 
-### Question 10
+### Question 9
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -394,7 +394,7 @@ Remember, feedback is a tool for growth, not criticism. Approach it with empathy
 
 
 
-### Question 11
+### Question 10
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -424,7 +424,7 @@ Remember, inclusivity is about continuous improvement. Keep iterating on these p
 
 
 
-### Question 12
+### Question 11
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -458,7 +458,7 @@ Remember, psychological safety is not a one-time initiative but an ongoing commi
 
 
 
-### Question 13
+### Question 12
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -484,7 +484,7 @@ By taking these steps, you'll not only mitigate the risk of having a single poin
 
 
 
-### Question 14
+### Question 13
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -512,7 +512,7 @@ Ultimately, the goal is to help them find a balance between exploring new areas 
 
 
 
-### Question 15
+### Question 14
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -542,7 +542,7 @@ Remember, the goal is to create a high-trust, low-ego environment where everyone
 
 
 
-### Question 16
+### Question 15
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -574,7 +574,7 @@ Remember, this transition is a journey, not a sprint. Be patient with yourself, 
 
 
 
-### Question 17
+### Question 16
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -608,7 +608,7 @@ By focusing on these strategies, you can create an environment where effective c
 
 
 
-### Question 18
+### Question 17
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -652,7 +652,7 @@ By focusing on these principles, you can create an environment where innovation 
 
 
 
-### Question 19
+### Question 18
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -688,7 +688,7 @@ Remember, it's a journey. Balancing leadership and management is about finding w
 
 
 
-### Question 20
+### Question 19
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|

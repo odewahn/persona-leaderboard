@@ -2,7 +2,7 @@ site_name: Persona Leaderboard
 repo_url: https://github.com/odewahn/persona-leaderboard
 nav:
   - Overview: index.md
-  - Evaluations by model:
+  - Evaluations by candidate:
     - chatGPT: chatgpt.md
     - tmpt.me:  tmpt-me.md
     - CL System Prompt example 1: cl-gradio-pe1.md

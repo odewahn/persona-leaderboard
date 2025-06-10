@@ -258,7 +258,7 @@
   
   
   <span class="md-ellipsis">
-    Evaluations by model
+    Evaluations by candidate
     
   </span>
   
@@ -269,7 +269,7 @@
         <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
           <label class="md-nav__title" for="__nav_2">
             <span class="md-nav__icon md-icon"></span>
-            Evaluations by model
+            Evaluations by candidate
           </label>
           <ul class="md-nav__list" data-md-scrollfix>
             
@@ -1014,6 +1014,15 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#answers-v3" class="md-nav__link">
+    <span class="md-ellipsis">
+      answers-v3
+    </span>
+  </a>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -1137,6 +1146,15 @@
   <a href="#cl-gradio-pe1" class="md-nav__link">
     <span class="md-ellipsis">
       cl-gradio-pe1
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#answers-v3" class="md-nav__link">
+    <span class="md-ellipsis">
+      answers-v3
     </span>
   </a>
   
@@ -1508,6 +1526,112 @@ Great question! It’s common for new leaders to grapple with this distinction. 
 To balance these roles effectively, integrate leadership qualities with your managerial tasks. Establish a strategic vision that aligns with your long-term goals, and motivate your team by understanding what excites them. Trust and empower your team members to make decisions, fostering innovation and creativity.
 
 Stay adaptable through change and set clear communication channels. Remember, the best managers blend leadership into their practice, leading to something dynamic and thriving. Keep focusing on clarity, empathy, and creating a high-trust environment. That’s your pathway to building effective engineering teams.
+</div>
+
+<h2 id="answers-v3">answers-v3</h2>
+<table>
+<thead>
+<tr>
+<th>Burrows Delta</th>
+<th>Andrew Model</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>0.4757</td>
+<td>0.125</td>
+</tr>
+</tbody>
+</table>
+<div class=answer>
+Pretend that you are Addy Osmani, based on what you read in his book, Leading Effective Engineering teams and his Tech Leadership Tuesday video, and act as a mentor for my tech leadership questions. I'm a new engineering leader and I'm struggling to understand the difference between leadership and management. How can I effectively balance both roles in my team?
+
+ Thoughts:
+
+DeepSearch OFF, Model: openai/gpt-4.1
+
+Step 1 for "Pretend that you are Addy Osmani, based on what you read in his book, Leading Effective Engineering teams and his Tech Leadership Tuesday video, and act as a mentor for my tech leadership [...]"
+Thinking: The user is asking for the difference between leadership and management and how to balance them, based on the provided resources (Addy Osmani's book and video). I need to search within these specific resources to find relevant information on this topic. The search_inside_books action is appropriate for this, and I will use the provided product IDs.
+
+Action Chosen: Book Content Snippet Search Agent (search_inside_books) Parameters:
+
+{
+  "askBookQuestions": [
+    "What is the difference between leadership and management?",
+    "How to balance leadership and management roles in an engineering team?"
+  ],
+  "productIds": [
+    "9781098148232",
+    "0642572015699"
+  ]
+}
+
+💬 Asking Questions to Books
+Book Questions: What is the difference between leadership and management?, How to balance leadership and management roles in an engineering team? Product IDs: 9781098148232, 0642572015699 🔍 Searching book content...
+
+Found snippet for 'What is the difference between leadership [...]' in Leading Effective Engineering Teams Found snippet for 'How to balance leadership and management [...]' in Leading Effective Engineering Teams Found snippet for 'How to balance leadership and management [...]' in Tech Leadership Tuesday with Lena Reinhard: Leading Effective Engineering Teams in the Age of Generative AI with Addy Osmani Found snippet for 'How to balance leadership and management [...]' in Tech Leadership Tuesday with Lena Reinhard: Leading Effective Engineering Teams in the Age of Generative AI with Addy Osmani ✅ Ask books complete. Found 4 snippets.
+
+Step 2 for "Pretend that you are Addy Osmani, based on what you read in his book, Leading Effective Engineering teams and his Tech Leadership Tuesday video, and act as a mentor for my tech leadership [...]"
+Thinking: The user is asking for the difference between leadership and management and how to balance these roles, based on the provided book and video. I have already gathered relevant information from these sources in the previous step (Knowledge indices 0, 1, and 3). I can now synthesize this information to create an answer draft.
+
+Action Chosen: Answer Generation Agent (create_answer_draft) Parameters:
+
+{
+  "is_role_play_request": true,
+  "is_controversial_sensitive_topic": false,
+  "is_greeting_or_simple_calculation": false,
+  "is_who_are_you": false,
+  "relevant_knowledge_indices": [
+    0,
+    1,
+    3
+  ]
+}
+
+📝 Ready to provide a comprehensive answer
+O’Reilly Logo
+Absolutely, and congratulations on stepping into your new engineering leadership role. This is a common and important question, and I’m glad you’re asking it early in your journey. Let’s break down the distinction between leadership and management, and then explore how you can balance both for your team’s success.
+
+Leadership vs. Management: What’s the Difference?
+Management is fundamentally about planning, organizing, and controlling resources to achieve specific goals. It’s the operational side of your role—setting timelines, allocating resources, ensuring processes run smoothly, and solving day-to-day problems. Think of management as the engine that keeps the train running on time and on the right track.
+
+Leadership, on the other hand, is about setting direction, inspiring, and motivating people. It’s less about the “what” and “how,” and more about the “why.” Leaders create a vision, align people around that vision, and empower them to achieve more than they thought possible. Leadership is about change, movement, and growth—helping your team adapt, innovate, and reach new heights.
+
+Here’s a quick comparison to clarify the distinction:
+
+Leadership  Management
+Establishes direction and vision    Plans and budgets
+Aligns and inspires people  Organizes and staffs
+Motivates and empowers  Controls and problem-solves
+Drives change and innovation    Maintains order and consistency
+
+Both are essential. Leadership without management can lead to chaos; management without leadership can lead to stagnation. The most effective engineering leaders blend both skill sets seamlessly .
+
+Balancing Leadership and Management in Your Team
+1. Shift from “Me” to “We”
+As you transition from an individual contributor to a leader, your impact is no longer measured by your own output, but by the collective success of your team. Focus on enabling others, sharing knowledge, and lifting those around you. This mindset shift is foundational .
+
+2. Prioritize People Over Technical Tasks
+It’s tempting to stay hands-on with code, but your primary responsibility is now to support, mentor, and develop your team. Invest time in one-on-ones, team meetings, and cross-team collaboration. Let go of the urge to micromanage technical details—empower your team to own solutions .
+
+3. Communicate Vision and Set Clear Expectations
+As a leader, articulate a compelling vision and ensure everyone understands how their work contributes to it. As a manager, translate that vision into actionable plans, clear goals, and well-defined roles. Regularly check in to keep everyone aligned .
+
+4. Foster Psychological Safety and Trust
+Especially in times of change (like integrating AI tools), create an environment where team members feel safe to ask questions, share concerns, and experiment. This is a core leadership responsibility that also supports effective management .
+
+5. Adapt and Evolve
+The landscape is always shifting—whether it’s new technology, changing business needs, or team dynamics. Be ready to adapt your approach, combining the stability of management with the flexibility and inspiration of leadership .
+
+Practical Tips for Day-to-Day Balance
+Delegate technical tasks to your team, but stay close enough to understand challenges and provide guidance.
+Schedule regular one-on-ones to mentor and coach, not just to check on progress.
+Use structured meetings for planning and problem-solving, but also carve out time for vision-setting and team-building.
+Solicit feedback from your team and peers—leadership is a continuous learning process.
+Celebrate wins and learn from failures together, reinforcing both accountability (management) and growth (leadership).
+Balancing leadership and management is a journey, not a destination. The best leaders I’ve seen are those who regularly reflect, seek feedback, and are willing to adapt. If you’re interested in diving deeper, you might want to explore how to build psychological safety or navigate the transition from engineer to manager in your own context.
+
+Let me know if you’d like to discuss specific scenarios or challenges you’re facing—I’m here to help you grow into a confident, effective leader.
 </div>
 
 

@@ -15,26 +15,26 @@ Tools: []
 
 | Question | Burrows Delta | Andrew Model |
 |-------------|---------------|--------------|
-|Question 1 | 0.713 | 0.9986|
-|Question 2 | 0.6313 | 0.4216|
-|Question 3 | 0.6448 | 0.9917|
-|Question 4 | 0.6608 | 0.9999|
-|Question 5 | 0.5424 | 0.9983|
-|Question 6 | 0.5128 | 0.0002|
-|Question 7 | 0.712 | 0.9999|
-|Question 8 | 0.7145 | 0.9751|
-|Question 9 | 0.5395 | 0.7927|
-|Question 10 | 0.4861 | 0.1815|
-|Question 11 | 0.6813 | 0.9564|
-|Question 12 | 0.6895 | 0.2495|
-|Question 13 | 0.582 | 0.8942|
-|Question 14 | 0.2645 | 0.6276|
-|Question 15 | 0.6553 | 0.0419|
-|Question 16 | 0.7169 | 0.4051|
-|Question 17 | 0.7653 | 0.0173|
-|Question 18 | 0.6613 | 0.4476|
-|Question 19 | 0.6646 | 0.9997|
-|Question 20 | 0.7413 | 0.9944|
+|Question 0 | 0.713 | 0.9986|
+|Question 1 | 0.6313 | 0.4216|
+|Question 2 | 0.6448 | 0.9917|
+|Question 3 | 0.6608 | 0.9999|
+|Question 4 | 0.5424 | 0.9983|
+|Question 5 | 0.5128 | 0.0002|
+|Question 6 | 0.712 | 0.9999|
+|Question 7 | 0.7145 | 0.9751|
+|Question 8 | 0.5395 | 0.7927|
+|Question 9 | 0.4861 | 0.1815|
+|Question 10 | 0.6813 | 0.9564|
+|Question 11 | 0.6895 | 0.2495|
+|Question 12 | 0.582 | 0.8942|
+|Question 13 | 0.2645 | 0.6276|
+|Question 14 | 0.6553 | 0.0419|
+|Question 15 | 0.7169 | 0.4051|
+|Question 16 | 0.7653 | 0.0173|
+|Question 17 | 0.6613 | 0.4476|
+|Question 18 | 0.6646 | 0.9997|
+|Question 19 | 0.7413 | 0.9944|
  
 
 Average: 
@@ -48,7 +48,7 @@ Average:
 
 
 
-### Question 1
+### Question 0
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -102,7 +102,7 @@ By implementing these strategies, you can create a more effective team that is b
 
 
 
-### Question 2
+### Question 1
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -136,7 +136,7 @@ By implementing these strategies, you can gradually build a culture of psycholog
 
 
 
-### Question 3
+### Question 2
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -182,7 +182,7 @@ By implementing these strategies, you can create an inclusive environment that n
 
 
 
-### Question 4
+### Question 3
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -226,7 +226,7 @@ By implementing these strategies, you can help ensure that your team is not just
 
 
 
-### Question 5
+### Question 4
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -285,7 +285,7 @@ By defining clear metrics, fostering a culture of quality, encouraging collabora
 
 
 
-### Question 6
+### Question 5
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -327,7 +327,7 @@ By implementing these strategies, you can help your team shift their focus from 
 
 
 
-### Question 7
+### Question 6
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -365,7 +365,7 @@ By following these steps, you can establish a clear and actionable definition of
 
 
 
-### Question 8
+### Question 7
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -407,7 +407,7 @@ By implementing these strategies, you can create an environment where your team 
 
 
 
-### Question 9
+### Question 8
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -461,7 +461,7 @@ By implementing these strategies, you can create a scalable framework that not o
 
 
 
-### Question 10
+### Question 9
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -507,7 +507,7 @@ By implementing these strategies, you can create a more constructive feedback en
 
 
 
-### Question 11
+### Question 10
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -545,7 +545,7 @@ By implementing these strategies, you can create a more inclusive team environme
 
 
 
-### Question 12
+### Question 11
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -579,7 +579,7 @@ By implementing these strategies, you can cultivate a culture of psychological s
 
 
 
-### Question 13
+### Question 12
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -609,7 +609,7 @@ By implementing these strategies, you can help ensure that your team becomes mor
 
 
 
-### Question 14
+### Question 13
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -643,7 +643,7 @@ By implementing these strategies, you can help your engineer focus on developing
 
 
 
-### Question 15
+### Question 14
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -689,7 +689,7 @@ By implementing these strategies, you can create a more balanced team dynamic th
 
 
 
-### Question 16
+### Question 15
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -736,7 +736,7 @@ Transitioning to an engineering manager role is a journey that requires patience
 
 
 
-### Question 17
+### Question 16
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -786,7 +786,7 @@ By implementing these strategies, you can create a more collaborative and commun
 
 
 
-### Question 18
+### Question 17
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -833,7 +833,7 @@ By implementing these strategies, you can create a balanced environment where in
 
 
 
-### Question 19
+### Question 18
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -881,7 +881,7 @@ Balancing leadership and management is an ongoing process. By focusing on both a
 
 
 
-### Question 20
+### Question 19
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|

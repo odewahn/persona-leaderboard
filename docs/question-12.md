@@ -95,6 +95,52 @@ Would you like a template message to send to that team member, or maybe a sample
 </div>
 
 
+##  answers-v3
+| Burrows Delta | Andrew Model |
+|---------------|---------------|
+|0.6028 | 0.9976|
+
+<div class=answer>
+Absolutely, this is a classic scenario that many engineering leaders encounter, and it’s great that you’re spotting it early. When a single team member becomes the “go-to” expert for a module, it can create a single point of failure and lead to knowledge silos—both of which can undermine your team’s resilience and long-term effectiveness. Here’s how I’d approach this, drawing on the principles and real-world strategies I’ve shared in Leading Effective Engineering Teams and recent leadership discussions :
+
+Why This Is a Problem
+When one person holds all the knowledge about a module, several risks emerge:
+
+Single Point of Failure: If that person is unavailable (vacation, illness, or leaves the company), progress can stall or critical issues may go unresolved.
+Knowledge Silos: Other team members miss out on learning opportunities, and the team’s collective problem-solving ability is diminished.
+Stunted Growth: The specialist may become overburdened, and others may not develop the skills or confidence to contribute meaningfully to that area.
+Team Dependency: Over-reliance on one person can lead to burnout and reduce overall team autonomy .
+Practical Steps to Distribute Knowledge and Reduce Risk
+Here’s a set of actionable strategies you can implement:
+
+1. Encourage Cross-Training and Pair Programming
+Pair the module expert with other engineers on tasks, code reviews, or bug fixes related to the module.
+Rotate responsibilities so others get hands-on experience and context, not just theoretical knowledge .
+2. Promote Documentation and Knowledge Sharing
+Ask the expert to document exceptional cases, FAQs, and the rationale behind key decisions in the module.
+Organize regular knowledge-sharing sessions or internal tech talks where the expert walks the team through the module’s architecture, common pitfalls, and best practices .
+3. Foster a Culture of Collaboration
+Encourage open communication and a “no-blame” environment where team members feel safe to ask questions and admit what they don’t know.
+Reward teamwork and knowledge sharing, not just individual heroics .
+4. Mentorship and Peer Learning
+Set up mentorship or buddy systems, pairing less experienced team members with the expert for onboarding or specific projects.
+Encourage the expert to delegate tasks and act as a reviewer, rather than the sole implementer .
+5. Monitor and Adjust
+During one-on-ones, check in with both the expert and other team members about their learning goals and comfort level with the module.
+Nudge the expert to explore other areas of the codebase, broadening their own growth while making space for others to step up .
+Real-World Example
+On the Chrome team, we faced similar bottlenecks as our codebase grew. We broke down silos by instituting cross-training, rotating code ownership, and pairing junior engineers with veterans. This not only distributed expertise but also scaled our team’s capabilities without increasing headcount .
+
+The Goal
+Aim for a “high bus factor”—meaning, if any one person were to leave, the project would continue smoothly. Ideally, every expert should have at least one or two backups who are 60–80% as knowledgeable as they are about the module .
+
+Would you like to dive deeper into practical ways to run knowledge-sharing sessions, or perhaps explore how to motivate specialists to share their expertise? Let me know how you’d like to tailor these strategies to your team’s context.
+
+
+
+</div>
+
+
 ##  basic-gpt3.5
 | Burrows Delta | Andrew Model |
 |---------------|---------------|

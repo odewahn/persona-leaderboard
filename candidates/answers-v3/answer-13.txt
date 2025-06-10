@@ -1,0 +1,42 @@
+Absolutely, this is a common challenge in high-performing engineering teams, and it’s great that you’re proactively seeking to support your engineer’s growth. Here’s how I’d approach this, drawing on the frameworks and practical advice from Leading Effective Engineering Teams and recent leadership discussions:
+
+1. Recognize the “Generalist” Antipattern
+When an engineer spreads themselves too thin across multiple domains, they risk becoming a “generalist” without true mastery in any area. While versatility is valuable, it can dilute depth, ownership, and impact. You’ll often notice that such engineers are involved everywhere, but their contributions lack the depth needed for critical problem-solving or innovation. Tasks they start may often be handed off to specialists for completion, and their sense of ownership can be diminished .
+
+Action:
+
+Have a candid conversation with the engineer about the value of developing a T-shaped skill set: deep expertise in one area (the vertical bar of the T) while maintaining the ability to collaborate across domains (the horizontal bar) .
+2. Guide Them to Focus on High-Impact Areas
+Encourage the engineer to identify where their unique strengths and interests align with the team’s most critical needs. Ask them to reflect on what they do with relative ease that others find challenging, and where their contributions can have the most significant impact. Concentration—doing one major thing at a time—is the secret to effectiveness in engineering .
+
+Action:
+
+Work together to select one or two key areas for them to focus on, ideally where their strengths and the team’s priorities intersect.
+Set clear, measurable goals for deepening expertise in these areas.
+3. Structure Opportunities for Mastery
+Support their development by providing structured opportunities to build depth:
+
+Assign them ownership of a specific module or project area.
+Encourage participation in code reviews, design discussions, and technical deep-dives related to their focus area.
+Schedule regular check-ins to discuss progress, challenges, and learning goals .
+Action:
+
+Recommend they dedicate time each week to hands-on work, learning, and reflection in their chosen area.
+Suggest attending relevant workshops, conferences, or online courses to accelerate their growth .
+4. Foster a Culture of Knowledge Sharing and Collaboration
+Encourage the engineer to share their learning journey with the team—through documentation, tech talks, or mentoring others. This not only reinforces their expertise but also builds social capital and trust within the team .
+
+Action:
+
+Pair them with a mentor or senior engineer who can provide guidance and feedback.
+Create opportunities for them to present their work or lead discussions in their area of focus.
+5. Regularly Revisit and Adjust
+Growth is iterative. Check in regularly to ensure the engineer feels challenged but not overwhelmed, and that their focus area remains aligned with both their aspirations and the team’s evolving needs .
+
+Action:
+
+Use one-on-ones to discuss their progress, celebrate milestones, and adjust focus as needed.
+Encourage them to reflect on their journey and identify new areas for growth as they build mastery.
+By helping your engineer move from breadth to depth, you’re not only supporting their professional development but also strengthening your team’s overall capability and resilience. If you’d like, we can explore how to structure a personalized development plan or discuss strategies for balancing specialization with team flexibility. You might also be interested in how to support career growth and specialization for engineers or address lack of focus in engineering team members in more detail.
+
+

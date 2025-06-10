@@ -40,26 +40,26 @@ Do not speak in lists or multiple paragraphs, simply reply with a concise short 
 
 | Question | Burrows Delta | Andrew Model |
 |-------------|---------------|--------------|
-|Question 1 | 0.5178 | 0.9998|
-|Question 2 | 0.2923 | 0.9052|
-|Question 3 | 0.2846 | 0.9281|
-|Question 4 | 0.4737 | 0.9998|
-|Question 5 | 0.1226 | 0.9603|
-|Question 6 | 0.2717 | 0.0107|
-|Question 7 | 0.1644 | 1.0|
-|Question 8 | 0.2093 | 0.9889|
-|Question 9 | 0.5306 | 0.9931|
-|Question 10 | 0.3961 | 0.0083|
-|Question 11 | 0.4283 | 0.995|
-|Question 12 | 0.292 | 0.0778|
-|Question 13 | 0.2782 | 0.4125|
-|Question 14 | 0.1751 | 0.9747|
-|Question 15 | 0.3521 | 0.998|
-|Question 16 | 0.5485 | 0.4628|
-|Question 17 | 0.3386 | 0.0013|
-|Question 18 | 0.4353 | 0.0005|
-|Question 19 | 0.4319 | 0.8899|
-|Question 20 | 0.3932 | 0.9988|
+|Question 0 | 0.5178 | 0.9998|
+|Question 1 | 0.2923 | 0.9052|
+|Question 2 | 0.2846 | 0.9281|
+|Question 3 | 0.4737 | 0.9998|
+|Question 4 | 0.1226 | 0.9603|
+|Question 5 | 0.2717 | 0.0107|
+|Question 6 | 0.1644 | 1.0|
+|Question 7 | 0.2093 | 0.9889|
+|Question 8 | 0.5306 | 0.9931|
+|Question 9 | 0.3961 | 0.0083|
+|Question 10 | 0.4283 | 0.995|
+|Question 11 | 0.292 | 0.0778|
+|Question 12 | 0.2782 | 0.4125|
+|Question 13 | 0.1751 | 0.9747|
+|Question 14 | 0.3521 | 0.998|
+|Question 15 | 0.5485 | 0.4628|
+|Question 16 | 0.3386 | 0.0013|
+|Question 17 | 0.4353 | 0.0005|
+|Question 18 | 0.4319 | 0.8899|
+|Question 19 | 0.3932 | 0.9988|
  
 
 Average: 
@@ -73,7 +73,7 @@ Average:
 
 
 
-### Question 1
+### Question 0
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -89,7 +89,7 @@ Great question! Improving team effectiveness and meeting deadlines starts with a
 
 
 
-### Question 2
+### Question 1
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -105,7 +105,7 @@ To really foster an open and innovative environment, focus on nurturing psycholo
 
 
 
-### Question 3
+### Question 2
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -121,7 +121,7 @@ Creating an inclusive environment starts with building psychological safety. Enc
 
 
 
-### Question 4
+### Question 3
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -137,7 +137,7 @@ Focus on aligning your team's efforts with the broader business objectives. Star
 
 
 
-### Question 5
+### Question 4
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -151,7 +151,7 @@ Promote a culture that values both doing things right and doing the right things
 
 
 
-### Question 6
+### Question 5
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -167,7 +167,7 @@ To bridge that gap between technical improvements and user benefits, start by lo
 
 
 
-### Question 7
+### Question 6
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -183,7 +183,7 @@ Defining effectiveness starts by aligning with your organization's core objectiv
 
 
 
-### Question 8
+### Question 7
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -199,7 +199,7 @@ To foster autonomy and accountability, start by setting clear expectations and p
 
 
 
-### Question 9
+### Question 8
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -215,7 +215,7 @@ To scale your team's effectiveness, start by empowering leaders within your orga
 
 
 
-### Question 10
+### Question 9
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -231,7 +231,7 @@ Improving your feedback skills is vital for team growth. Start by being specific
 
 
 
-### Question 11
+### Question 10
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -247,7 +247,7 @@ To create a more inclusive team environment, start by fostering psychological sa
 
 
 
-### Question 12
+### Question 11
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -263,7 +263,7 @@ Creating psychological safety in a large team involves a few key steps. Start by
 
 
 
-### Question 13
+### Question 12
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -279,7 +279,7 @@ Ah, a classic scenario! You’re looking at a potential knowledge bottleneck. To
 
 
 
-### Question 14
+### Question 13
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -295,7 +295,7 @@ Addressing this is all about striking the right balance. Sit down with the engin
 
 
 
-### Question 15
+### Question 14
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -311,7 +311,7 @@ Ah, the classic challenge of knowledge silos. It can sneak up on any team if you
 
 
 
-### Question 16
+### Question 15
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -327,7 +327,7 @@ Transitioning from an individual contributor to a management role can be tough, 
 
 
 
-### Question 17
+### Question 16
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -343,7 +343,7 @@ Navigating complex team dynamics starts with creating a culture of trust and psy
 
 
 
-### Question 18
+### Question 17
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -357,7 +357,7 @@ When considering a calculated risk, weigh potential benefits against drawbacks. 
 
 
 
-### Question 19
+### Question 18
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
@@ -373,7 +373,7 @@ Stay adaptable through change and set clear communication channels. Remember, th
 
 
 
-### Question 20
+### Question 19
 
 | Burrows Delta | Andrew Model |
 |---------------|---------------|
